@@ -6,6 +6,8 @@
 
 ### Types of LINKED LIST
 
+^2aa4ef
+
 - Types of linked list?
 	- [[Singly LL]]
 	- [[Doubly LL]]
