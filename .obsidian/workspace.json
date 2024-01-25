@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Searching.md",
+                "file": "COMP_SCI/LINKED LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f038eb62bf17ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Singly LL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Searching.md",
+                "file": "Singly LL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Searching.md",
+                "file": "Singly LL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Searching.md"
+                "file": "Singly LL.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "405685ee0450151b",
+  "active": "1f038eb62bf17ee0",
   "lastOpenFiles": [
-    "COMP_SCI/LINKED LIST.md"
+    "COMP_SCI/LINKED LIST.md",
+    "Singly LL.md",
+    "COMP_SCI/Searching.md"
   ]
 }
