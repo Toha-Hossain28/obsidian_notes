@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singly LL.md",
+                "file": "COMP_SCI/Singly LL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Singly LL.md",
+                "file": "COMP_SCI/Singly LL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Singly LL.md",
+                "file": "COMP_SCI/Singly LL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Singly LL.md"
+                "file": "COMP_SCI/Singly LL.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f038eb62bf17ee0",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
     "COMP_SCI/LINKED LIST.md",
-    "Singly LL.md",
+    "COMP_SCI/Singly LL.md",
     "COMP_SCI/Searching.md"
   ]
 }
