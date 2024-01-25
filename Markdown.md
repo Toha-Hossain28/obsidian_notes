@@ -64,6 +64,19 @@ Block in different page
 [[LINKED LIST#^2aa4ef | LL_Types]]
 
 External Links
+www.obsidian.md
+[Obsidian](https://obsidian.md)
+
+ 
+ embedded link
+ 
+ ![Obsidian](https://obsidian.md/)
 
 
+![[LINKED LIST#^2aa4ef | LL_Types]]
 
+### footnote
+This is a footnote[^1]
+
+
+[^1]  it is a footnote
