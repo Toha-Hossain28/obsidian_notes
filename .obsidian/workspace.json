@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
+                "file": "COMP_SCI/LINKED LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown.md",
+                "file": "COMP_SCI/LINKED LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown.md",
+                "file": "COMP_SCI/LINKED LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown.md"
+                "file": "COMP_SCI/LINKED LIST.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "5f81c897247d4f54",
   "lastOpenFiles": [
+    "COMP_SCI/Is Sorted?.md",
+    "COMP_SCI/Remove Duplicate.md",
     "COMP_SCI/LINKED LIST.md",
-    "Markdown.md",
+    "COMP_SCI/Searching.md",
     "COMP_SCI/Doubly LL.md",
-    "COMP_SCI/Singly LL.md",
-    "COMP_SCI/Searching.md"
+    "Markdown.md",
+    "COMP_SCI/Singly LL.md"
   ]
 }

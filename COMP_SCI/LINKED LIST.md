@@ -4,7 +4,7 @@
 	- linked list is like an array but it doesn't occupy contiguous memory on RAM and it is dynamic in size.
 	![[IMGS/Pasted image 20240123181124.png]]
 
-### Types of LINKED LIST
+- ### Types of LINKED LIST
 
 ^2aa4ef
 
@@ -20,16 +20,20 @@
 	 ![[Pasted image 20240123181705.png]]
 
 
-### Operation on LINKED LIST
+
+- ### Operation on LINKED LIST
 	[[Insertion]]
 	[[Deletion]]
 	[[Searching]] 
 	[[Display]]
 	[[Counting elements + sum of elements]]
 	[[Max & Min]]
+	[[Is Sorted?]]
+	[[Remove Duplicate]]
 	
 
-## Structure of LL
+
+- ## Structure of LL
 ```c++
 struct Node{
 	int data;
