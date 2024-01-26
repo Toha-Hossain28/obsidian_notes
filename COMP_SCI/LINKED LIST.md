@@ -32,6 +32,8 @@
 	[[Remove Duplicate]]
 	[[Reversing LL]]
 	[[Concatenate 2 LL]]
+	[[Loop Check]]
+	
 	
 
 

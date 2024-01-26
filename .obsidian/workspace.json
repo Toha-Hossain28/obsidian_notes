@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4563acf87b5c2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP_SCI/Loop Check.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Circular LL.md",
+                "file": "COMP_SCI/Loop Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Circular LL.md",
+                "file": "COMP_SCI/Loop Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Circular LL.md"
+                "file": "COMP_SCI/Loop Check.md"
               }
             }
           }
@@ -149,6 +162,7 @@
   "active": "b988d90f7f62776b",
   "lastOpenFiles": [
     "COMP_SCI/LINKED LIST.md",
+    "COMP_SCI/Loop Check.md",
     "COMP_SCI/Circular LL.md",
     "COMP_SCI/Concatenate 2 LL.md",
     "Concatinate 2 LL.md",
