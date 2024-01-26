@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Loop Check.md",
+                "file": "COMP_SCI/Circular LL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Loop Check.md",
+                "file": "COMP_SCI/Circular LL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Loop Check.md",
+                "file": "COMP_SCI/Circular LL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Loop Check.md"
+                "file": "COMP_SCI/Circular LL.md"
               }
             }
           }
@@ -159,19 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b988d90f7f62776b",
+  "active": "f4563acf87b5c2ea",
   "lastOpenFiles": [
+    "COMP_SCI/Singly LL.md",
+    "COMP_SCI/Circular LL.md",
+    "COMP_SCI/Doubly LL.md",
     "COMP_SCI/LINKED LIST.md",
     "COMP_SCI/Loop Check.md",
-    "COMP_SCI/Circular LL.md",
     "COMP_SCI/Concatenate 2 LL.md",
     "Concatinate 2 LL.md",
     "COMP_SCI/Reversing LL.md",
     "COMP_SCI/Is Sorted?.md",
     "COMP_SCI/Remove Duplicate.md",
     "COMP_SCI/Searching.md",
-    "COMP_SCI/Doubly LL.md",
-    "Markdown.md",
-    "COMP_SCI/Singly LL.md"
+    "Markdown.md"
   ]
 }

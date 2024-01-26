@@ -108,6 +108,78 @@ struct CLL {
 		
 	}
 	
+	int DelFirst(){
+		
+		if(Head == nullptr){
+		
+			return -1;
+			
+		}
+		
+		else if(Head == Tail){
+			
+			int x = Head->val;
+			
+			Head = nullptr;
+			
+			Tail = nullptr;
+			
+			return x;
+			
+		}
+		
+		else{
+			
+			int x = Head->val;
+			
+			Tail->Next = Head->Next;
+			
+			Head = Head->Next;
+			
+			Head->Prev = Tail;
+			
+			return x;
+			
+		}
+		
+	}
+	
+	  
+	
+	int DelLast(){
+		
+		if(Head == nullptr){
+			
+			return -1;
+			
+		}
+		
+		else if(Head == Tail){
+			
+			int x = Head->val;
+			
+			Head = nullptr;
+			
+			Tail = nullptr;
+			
+			return x;
+			
+		}
+		
+			else{
+			
+			int x = Tail->val;
+			
+			Tail = Tail->Prev;
+			
+			Tail->Next = Head;
+			
+			Head->Prev = Tail;
+			
+			return x;
+			
+		}
+	}
 	  
 	
 	void PrintLL() {

@@ -10,6 +10,8 @@ struct LL {
 	};
 	Node* Head = nullptr;
 	Node* Tail = nullptr;
+		
+		
 	void InsertFirst(int x) {
 		Node* a = new Node;
 		a->next = nullptr;
@@ -23,6 +25,8 @@ struct LL {
 			Head = a;
 		}
 	}
+		
+		
 	void InsertLast(int x){
 		Node* a = new Node;
 		a->next = nullptr;
@@ -36,6 +40,8 @@ struct LL {
 			Tail = a;
 		}
 	}
+		
+		
 	int DelFirst(){
 		if(!Head){
 		return -1;
@@ -52,6 +58,8 @@ struct LL {
 			return x;
 		}
 	}
+		
+		
 	int DelLast(){
 		if(!Head){
 			return -1;
@@ -73,6 +81,8 @@ struct LL {
 			return x;
 		}
 	}
+		
+		
 	void PrintLL() {
 		Node* p = Head;
 		while (p) {
