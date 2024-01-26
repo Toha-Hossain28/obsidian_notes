@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/LINKED LIST.md",
+                "file": "COMP_SCI/Circular LL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/LINKED LIST.md",
+                "file": "COMP_SCI/Circular LL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/LINKED LIST.md"
+                "file": "COMP_SCI/Circular LL.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f81c897247d4f54",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
-    "COMP_SCI/Concatenate 2 LL.md",
     "COMP_SCI/LINKED LIST.md",
+    "COMP_SCI/Circular LL.md",
+    "COMP_SCI/Concatenate 2 LL.md",
     "Concatinate 2 LL.md",
     "COMP_SCI/Reversing LL.md",
     "COMP_SCI/Is Sorted?.md",
