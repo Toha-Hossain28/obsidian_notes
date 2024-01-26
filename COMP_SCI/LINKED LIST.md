@@ -30,6 +30,8 @@
 	[[Max & Min]]
 	[[Is Sorted?]]
 	[[Remove Duplicate]]
+	[[Reversing LL]]
+	[[Concatenate 2 LL]]
 	
 
 
