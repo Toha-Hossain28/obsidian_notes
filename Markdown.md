@@ -10,8 +10,8 @@
 _Italic_
 *Italic*
 
-__Bold__
-**Bold**
+___Bold___
+***Bold***
 
 ~~Strikethrough~~
 ==Highlight==
