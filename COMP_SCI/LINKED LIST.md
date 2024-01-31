@@ -1,8 +1,10 @@
 
 
 - ### What is linked list?
-	- linked list is like an array but it doesn't occupy contiguous memory on RAM and it is dynamic in size.
+	- `linked list` is like an array but it doesn't occupy contiguous memory on RAM and it is dynamic in size.
 	![[IMGS/Pasted image 20240123181124.png]]
+
+-----
 
 - ### Types of LINKED LIST
 
@@ -20,6 +22,7 @@
 	 ![[Pasted image 20240123181705.png]]
 
 
+---
 
 - ### Operation on LINKED LIST
 	[[Insertion]]

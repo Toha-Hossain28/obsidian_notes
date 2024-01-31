@@ -2,6 +2,9 @@
 ## Header 2
 ### Header 3
 #### Header 4
+
+
+---
 ##### Header 5
 ###### Header 6
 
@@ -80,3 +83,4 @@ This is a footnote[^1]
 
 
 [^1]  it is a footnote
+

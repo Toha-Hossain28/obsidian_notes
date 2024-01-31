@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Linked List Stack implementation.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Doubly LL.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Doubly LL.md",
+                "file": "Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Doubly LL.md"
+                "file": "Markdown.md"
               }
             }
           }
@@ -158,18 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d447d5baa0414da2",
+  "active": "d52c06b8370240c5",
   "lastOpenFiles": [
-    "COMP_SCI/Loop Check.md",
     "COMP_SCI/LINKED LIST.md",
-    "COMP_SCI/STACK.md",
     "COMP_SCI/Linked List Stack implementation.md",
+    "COMP_SCI/Doubly LL.md",
+    "COMP_SCI/Loop Check.md",
+    "COMP_SCI/STACK.md",
     "Markdown.md",
     "IMGS/Stack-Data-Structure.png",
     "COMP_SCI/Is Sorted?.md",
     "COMP_SCI/Circular LL.md",
     "COMP_SCI/Singly LL.md",
-    "COMP_SCI/Doubly LL.md",
     "COMP_SCI/Concatenate 2 LL.md",
     "Concatinate 2 LL.md",
     "COMP_SCI/Reversing LL.md",
