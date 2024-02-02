@@ -13,26 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Doubly LL.md",
+                "file": "COMP_SCI/STACK.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d52c06b8370240c5",
+            "id": "3d314f0acc9928a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
+                "file": "COMP_SCI/Array Stack Implementation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a7fd6b721f86d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP_SCI/Linked List Stack implementation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown.md",
+                "file": "COMP_SCI/STACK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown.md",
+                "file": "COMP_SCI/STACK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown.md"
+                "file": "COMP_SCI/STACK.md"
               }
             }
           }
@@ -159,14 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d52c06b8370240c5",
+  "active": "d447d5baa0414da2",
   "lastOpenFiles": [
-    "COMP_SCI/LINKED LIST.md",
+    "COMP_SCI/Array Stack Implementation.md",
+    "COMP_SCI/STACK.md",
     "COMP_SCI/Linked List Stack implementation.md",
     "COMP_SCI/Doubly LL.md",
-    "COMP_SCI/Loop Check.md",
-    "COMP_SCI/STACK.md",
     "Markdown.md",
+    "COMP_SCI/LINKED LIST.md",
+    "COMP_SCI/Loop Check.md",
     "IMGS/Stack-Data-Structure.png",
     "COMP_SCI/Is Sorted?.md",
     "COMP_SCI/Circular LL.md",

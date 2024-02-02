@@ -16,7 +16,7 @@ _Italic_
 ___Bold___
 ***Bold***
 
-~~Strikethrough~~
+~~Work has been done~~
 ==Highlight==
 
 ## Lists "-"
