@@ -286,43 +286,50 @@ int ispre(char x){
 }
 
 int main(){
-	Stack inTOpost;
-	string s;
-	cin>>s;
-	char arr[s.length()+1];
-	int i=0;
-	int la=0;
-	while(s[i] != '\0'){
-		if(isOp(s[i])){
-			arr[la++] = s[i++];
-		}
-		else{
-			if(ispre(s[i])>=ispre(inTOpost.StackTop())){
-				inTOpost.Push(s[i++]);
-			}
-			else{
-				if(inTOpost.StackTop()=='(' || inTOpost.StackTop()==')'){
-					inTOpost.Pop();
-					continue;
-				}
-				else{
-					arr[la++] = inTOpost.Pop();
-				}
-			}
-		}
-	}
-	while(!inTOpost.IsEmpty()){
-		if(inTOpost.StackTop()=='(' || inTOpost.StackTop()==')'){
-			inTOpost.Pop();
-			continue;
-		}
-		else{
-			arr[la++] = inTOpost.Pop();
-		}
-	}
-	arr[la] = '\0';
-	cout<<arr<<endl;
-	return 0;
+    Stack<char> inTOpost;
+    string s;
+    cin>>s;
+    char arr[s.length()+1];
+    int i=0;
+    int la=0;
+    while(i < s.length()){
+        if(isOp(s[i])){
+            arr[la++] = s[i++];
+        }
+        else{
+            if(s[i] == '('){
+                inTOpost.Push(s[i++]);
+            }
+            else if(s[i] == ')'){
+                while(!inTOpost.IsEmpty() && inTOpost.StackTop() != '('){
+                    arr[la++] = inTOpost.Pop();
+                }
+                if(!inTOpost.IsEmpty()){
+                    inTOpost.Pop(); // remove the '('
+                }
+                i++;
+            }
+            else{
+                if(!inTOpost.IsEmpty() && ispre(s[i]) < ispre(inTOpost.StackTop())){
+                    arr[la++] = inTOpost.Pop();
+                }
+                inTOpost.Push(s[i++]);
+            }
+        }
+    }
+    while(!inTOpost.IsEmpty()){
+        if(inTOpost.StackTop() == '('){
+            // If the top element is an open parenthesis, it means that there is a mismatch in parentheses
+            // and the infix expression is invalid.
+            // In this case, we print an error message and exit.
+            cout<<"Error: Invalid parentheses"<<endl;
+            return 1;
+        }
+        arr[la++] = inTOpost.Pop();
+    }
+    arr[la] = '\0';
+    cout<<arr<<endl;
+    return 0;
 }
 ```
 
