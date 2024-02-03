@@ -11,11 +11,40 @@
             "id": "dac558f4a1d4a12a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMP_SCI/Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a2177470b8ab302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP_SCI/Queue with array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d0c408877625e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP_SCI/STACK.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "928c32799bb4d616",
@@ -82,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMP_SCI/Queue with array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMP_SCI/Queue with array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMP_SCI/Queue with array.md"
+              }
             }
           }
         ]
@@ -139,10 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dac558f4a1d4a12a",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
-    "COMP_SCI/Infix to Postfix using stack.md",
+    "COMP_SCI/Queue.md",
+    "COMP_SCI/Queue with array.md",
     "COMP_SCI/STACK.md",
+    "IMGS/Queue-Data-structure1.png",
+    "IMGS/Queue-Data-structure1.png.fdmdownload",
+    "COMP_SCI/Infix to Postfix using stack.md",
     "COMP_SCI/Linked List Stack implementation.md",
     "COMP_SCI/Deletion.md",
     "COMP_SCI/Insertion.md",
