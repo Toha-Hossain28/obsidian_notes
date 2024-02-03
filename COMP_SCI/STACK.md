@@ -7,6 +7,7 @@
 - ## Implementation Of **Stack**
 	- Using [[Array Stack Implementation | Array]]
 	- Using [[Linked List Stack implementation| Linked List]]
+		- [[LINKED LIST]]
 
 - ## Problems with **Stack**
 	1. [[Parenthesis Matching using stack | Parenthesis matching]]
