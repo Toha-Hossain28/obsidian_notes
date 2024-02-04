@@ -1,4 +1,6 @@
 
+![[Pasted image 20240204102151.png]]
+
 # C Standard
 
 ### contains only     `+`, `-`,`*`,`/`
