@@ -336,3 +336,234 @@ int main(){
 ```
 
 Back to [[STACK]]
+
+
+```c++
+#include<iostream>
+
+#include<cstring>
+
+using namespace std;
+
+  
+
+struct Stack {
+
+    int top;
+
+    int size;
+
+    char* array;
+
+  
+
+    Stack(int n) {
+
+        top = -1;
+
+        size = n;
+
+        array = new char[size];
+
+    }
+
+};
+
+  
+
+bool isFull(Stack* st) {
+
+    return st->top == st->size - 1;
+
+}
+
+  
+
+bool isEmpty(Stack* st) {
+
+    return st->top == -1;
+
+}
+
+  
+
+void push(Stack* st, char item) {
+
+    if (isFull(st)) {
+
+        return;
+
+    } else {
+
+        st->array[++st->top] = item;
+
+    }
+
+}
+
+  
+
+char pop(Stack* st) {
+
+    if (isEmpty(st)) {
+
+        return -1;
+
+    } else {
+
+        char item = st->array[st->top];
+
+        st->top--;
+
+        return item;
+
+    }
+
+}
+
+  
+
+int is_operator(char symbol) {
+
+    if (symbol == '+' || symbol == '-' || symbol == '*' || symbol == '/') {
+
+        return 1;
+
+    }
+
+    return 0;
+
+}
+
+  
+
+int prcdnc(char ch) {
+
+    switch (ch) {
+
+        case '^':
+
+            return 3;
+
+        case '*':
+
+        case '/':
+
+            return 2;
+
+        case '+':
+
+        case '-':
+
+            return 1;
+
+        default:
+
+            return 0;
+
+    }
+
+}
+
+  
+
+void in_to_post(Stack* st, char infix[], char postfix[]) {
+
+    int i, j = 0;
+
+    char ch, next;
+
+    for (i = 0; infix[i] != '\0'; i++) {
+
+        ch = infix[i];
+
+        switch (ch) {
+
+            case '(':
+
+                push(st, ch);
+
+                break;
+
+            case ')':
+
+                while ((next = pop(st)) != '(')
+
+                    postfix[j++] = next;
+
+                break;
+
+            case '+':
+
+            case '-':
+
+            case '*':
+
+            case '/':
+
+            case '^':
+
+                while (!isEmpty(st) && prcdnc(st->array[st->top]) >= prcdnc(ch)) {
+
+                    postfix[j++] = pop(st);
+
+                }
+
+                push(st, ch);
+
+                break;
+
+            default:
+
+                postfix[j++] = ch;
+
+        }
+
+    }
+
+    while (!isEmpty(st)) {
+
+        postfix[j++] = pop(st);
+
+    }
+
+    postfix[j] = '\0';
+
+}
+
+  
+
+int main() {
+
+    char infix[100];
+
+    cin >> infix;
+
+  
+
+    Stack* st = new Stack(strlen(infix) + 1);  // Increased the size by 1 for the null terminator
+
+  
+
+    char postfix[100];
+
+  
+
+    in_to_post(st, infix, postfix);
+
+  
+
+    cout << "Postfix Expression: " << postfix << endl;
+
+  
+
+    delete[] st->array;
+
+    delete st;
+
+  
+
+    return 0;
+
+}
+```
