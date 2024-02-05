@@ -12,7 +12,7 @@ bool isloop(){
 		if(q != nullptr){
 			q = q->next;
 		}
-	}while(p && q && p==q);
+	}while(p && q && p!=q);
 	if(p==q){
 		return true;
 	}
