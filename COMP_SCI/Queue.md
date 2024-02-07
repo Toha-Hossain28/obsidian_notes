@@ -6,7 +6,7 @@ A **Queue*** is defined as a linear data structure that is open at both ends a
 
 - ## **Queue** Structure
 	
-	with [LINKED_LIST](LINKED_LINK)
+	with [LINKED_LIST](LINKED_LINK.md)
 	
 ```c++
 
@@ -24,7 +24,7 @@ struct Queue{
 ```
 
 - ## **Queue** Implementation
-	- Using [Array](Queue_with_Array)
-	- Using [Linked List](Queue_with_LL)
-	go to [LINKED_LIST](LINKED_LIST)
+	- Using [Array](Queue_with_Array.md)
+	- Using [Linked List](Queue_with_LL.md)
+	go to [LINKED_LIST](LINKED_LIST.md)
 

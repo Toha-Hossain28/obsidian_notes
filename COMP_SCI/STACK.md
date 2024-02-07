@@ -34,13 +34,13 @@ struct Stack{
 
 
 - ## Implementation Of **Stack**
-	- Using [Array](Array_Stack_Implementation)
-	- Using [Linked List](Linked_List_Stack_Implementatio)
-		- [LINKED_LIST](LINKED_LIST)
+	- Using [Array](Array_Stack_Implementation.md)
+	- Using [Linked List](Linked_List_Stack_Implementatio.md)
+		- [LINKED_LIST](LINKED_LIST.md)
 
 
 - ## Problems with **Stack**
-	1. [Parenthesis matching](Parenthesis_Matching_using_Stack)
-	2. [Infix to Post-fix](Infix_to_Postfix_using_Stack)
-	3.  [Post-Fix_Evaluation](Post-Fix_Evaluation)
+	1. [Parenthesis matching](Parenthesis_Matching_using_Stack.md)
+	2. [Infix to Post-fix](Infix_to_Postfix_using_Stack.md)
+	3.  [Post-Fix_Evaluation](Post-Fix_Evaluation.md)
 	4. 
