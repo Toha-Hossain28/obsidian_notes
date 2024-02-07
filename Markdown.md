@@ -47,24 +47,24 @@ check_list ("- [ ]")
 - [ ] 3
 
 link
-[[Doubly LL]]
+[[Doubly_LL]]
 Alias
-[[Doubly LL | DLL]]
+[[Doubly_LL| DLL]]
 
 Headers in the same page
 [[Markdown#Header 4]]
 
 Headers not in the same page
-[[LINKED LIST#Structure of LL]]
-[[LINKED LIST#Operation on LINKED LIST | LLops]]
+[[LINKED_LIST#Structure of LL]]
+[[LINKED_LIST#Operation on LINKED LIST| LLops]]
 
 Block in the same page
 [[Markdown#^d4c869]]
 [[Markdown#^d4c869 | tag]]
 
 Block in different page
-[[LINKED LIST#^2aa4ef]]
-[[LINKED LIST#^2aa4ef | LL_Types]]
+[[LINKED_LIST#^2aa4ef]]
+[[LINKED_LIST#^2aa4ef| LL_Types]]
 
 External Links
 www.obsidian.md
@@ -76,7 +76,7 @@ www.obsidian.md
  ![Obsidian](https://obsidian.md/)
 
 
-![[LINKED LIST#^2aa4ef | LL_Types]]
+![[LINKED_LIST#^2aa4ef| LL_Types]]
 
 ### footnote
 This is a footnote[^1]

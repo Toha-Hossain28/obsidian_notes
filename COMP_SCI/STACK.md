@@ -9,7 +9,7 @@
 
 
 - ## **Stack** Structure
-	with [[LINKED LIST | Linked list]]
+	with [[LINKED_LIST| Linked list]]
 	
 ```c++
 struct Stack{
@@ -34,14 +34,13 @@ struct Stack{
 
 
 - ## Implementation Of **Stack**
-	- Using [[Array Stack Implementation | Array]]
-	- Using [[Linked List Stack implementation| Linked List]]
-		- [[LINKED LIST]]
-
+	- Using [Array](COMP_SCI/Array_Stack_Implementation)
+	- Using [Linked List](COMP_SCI/Linked_List_Stack_Implementatio)
+		- [LINKED_LIST](COMP_SCI/LINKED_LIST)
 
 
 - ## Problems with **Stack**
-	1. [[Parenthesis Matching using stack | Parenthesis matching]]
-	2. [[Infix to Postfix using stack | Infix to Post-fix]]
-	3.  [[Post-Fix evaluation]]
+	1. [Parenthesis matching](COMP_SCI/Parenthesis_Matching_using_Stack)
+	2. [Infix to Post-fix](COMP_SCI/Infix_to_Postfix_using_Stack)
+	3.  [Post-Fix_Evaluation](COMP_SCI/Post-Fix_Evaluation)
 	4. 
