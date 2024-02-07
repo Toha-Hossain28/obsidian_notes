@@ -2,7 +2,7 @@
 
 - ### What is linked list?
 	- `linked list` is like an array but it doesn't occupy contiguous memory on RAM and it is dynamic in size.
-	![[IMGS/Pasted image 20240123181124.png]]
+	![DoublyLL](IMGS/LL.png)
 
 -----
 
@@ -15,11 +15,11 @@
 	- [Doubly_LL](COMP_SCI/Doubly_LL)
 	- [Circular_LL](COMP_SCI/Circular_LL)
 - Singly LL
-	![[Pasted image 20240123181511.png]]
+	![SinglyLL.png](SinglyLL.png)
 - Doubly LL
-	![[Pasted image 20240123181618.png]]
+	![DoublyLL](IMGS/DoublyLL.png)
 - Circular LL
-	 ![[Pasted image 20240123181705.png]]
+	 ![CircularLL](IMGS/CircularLL.png)
 
 
 ---

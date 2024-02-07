@@ -1,5 +1,5 @@
 
-![[Pasted image 20240204102151.png]]
+![Precedence](IMGS/Precedence.png)
 
 # C Standard
 

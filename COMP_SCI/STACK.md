@@ -1,4 +1,4 @@
-![[Stack-Data-Structure.png]]
+![STACK](IMGS/Stack-Data-Structure.png)
 
 
 

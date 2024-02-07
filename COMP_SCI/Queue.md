@@ -1,6 +1,6 @@
 # What is **Queue**
 
-![[Queue-Data-structure1.png]]
+![Queue](IMGS/Queue.png)
 
 A **Queue*** is defined as a linear data structure that is open at both ends and the operations are performed in **First In First Out (FIFO)*** order.
 
