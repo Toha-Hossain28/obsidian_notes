@@ -11,8 +11,12 @@
             "id": "1b695f96d1c7af06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COMP_SCI/Array_Stack_Implementation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMP_SCI/Array_Stack_Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMP_SCI/Array_Stack_Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMP_SCI/Array_Stack_Implementation.md"
+              }
             }
           }
         ]
@@ -140,35 +148,35 @@
   },
   "active": "1b695f96d1c7af06",
   "lastOpenFiles": [
-    "COMP_SCI/STACK.md",
-    "COMP_SCI/Singly_LL.md",
-    "COMP_SCI/Searching.md",
-    "COMP_SCI/Reversing_LL.md",
-    "COMP_SCI/Remove_Duplicate.md",
-    "COMP_SCI/Queue_with_LL.md",
-    "COMP_SCI/Queue_with_array.md",
-    "COMP_SCI/Queue.md",
-    "IMGS/Queue.png",
-    "COMP_SCI/Post-Fix_Evaluation.md",
-    "COMP_SCI/Parenthesis_Matching_using_Stack.md",
-    "COMP_SCI/Max_And_Min.md",
-    "COMP_SCI/Loop_Check.md",
-    "COMP_SCI/Linked_List_Stack_Implementation.md",
+    "COMP_SCI/Circular_LL.md",
+    "COMP_SCI/Concatenate_2_LL.md",
+    "COMP_SCI/Counting_Elements_And_Sum_of_Elements.md",
+    "COMP_SCI/Deletion.md",
+    "COMP_SCI/Display.md",
+    "COMP_SCI/Doubly_LL.md",
+    "COMP_SCI/Infix_to_Postfix_using_Stack.md",
+    "COMP_SCI/Insertion.md",
+    "COMP_SCI/Is_Sorted.md",
     "COMP_SCI/LINKED_LIST.md",
+    "COMP_SCI/Linked_List_Stack_Implementation.md",
+    "COMP_SCI/Loop_Check.md",
+    "COMP_SCI/Max_And_Min.md",
+    "COMP_SCI/Parenthesis_Matching_using_Stack.md",
+    "COMP_SCI/Post-Fix_Evaluation.md",
+    "COMP_SCI/Queue.md",
+    "COMP_SCI/Queue_with_array.md",
+    "COMP_SCI/Queue_with_LL.md",
+    "COMP_SCI/Remove_Duplicate.md",
+    "COMP_SCI/Reversing_LL.md",
+    "COMP_SCI/Searching.md",
+    "COMP_SCI/Singly_LL.md",
+    "COMP_SCI/STACK.md",
+    "IMGS/Queue.png",
     "IMGS/CircularLL.png",
     "IMGS/DoublyLL.png",
     "IMGS/LL.png",
     "IMGS/SinglyLL.png",
-    "COMP_SCI/Is_Sorted.md",
-    "COMP_SCI/Insertion.md",
-    "COMP_SCI/Infix_to_Postfix_using_Stack.md",
     "IMGS/Precedence.png",
-    "COMP_SCI/Doubly_LL.md",
-    "COMP_SCI/Display.md",
-    "COMP_SCI/Deletion.md",
-    "COMP_SCI/Counting_Elements_And_Sum_of_Elements.md",
-    "COMP_SCI/Concatenate_2_LL.md",
-    "COMP_SCI/Circular_LL.md",
     "COMP_SCI/Array_Stack_Implementation.md",
     "IMGS/Queue-Data-structure1.png.fdmdownload",
     "Markdown.md",

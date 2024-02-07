@@ -1,5 +1,5 @@
 
-![Precedence](IMGS/Precedence.png)
+![Precedence](/IMGS/Precedence.png)
 
 # C Standard
 

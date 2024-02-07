@@ -1,4 +1,4 @@
-![STACK](IMGS/Stack-Data-Structure.png)
+![STACK](/IMGS/Stack-Data-Structure.png)
 
 
 
@@ -34,13 +34,13 @@ struct Stack{
 
 
 - ## Implementation Of **Stack**
-	- Using [Array](COMP_SCI/Array_Stack_Implementation)
-	- Using [Linked List](COMP_SCI/Linked_List_Stack_Implementatio)
-		- [LINKED_LIST](COMP_SCI/LINKED_LIST)
+	- Using [Array](Array_Stack_Implementation)
+	- Using [Linked List](Linked_List_Stack_Implementatio)
+		- [LINKED_LIST](LINKED_LIST)
 
 
 - ## Problems with **Stack**
-	1. [Parenthesis matching](COMP_SCI/Parenthesis_Matching_using_Stack)
-	2. [Infix to Post-fix](COMP_SCI/Infix_to_Postfix_using_Stack)
-	3.  [Post-Fix_Evaluation](COMP_SCI/Post-Fix_Evaluation)
+	1. [Parenthesis matching](Parenthesis_Matching_using_Stack)
+	2. [Infix to Post-fix](Infix_to_Postfix_using_Stack)
+	3.  [Post-Fix_Evaluation](Post-Fix_Evaluation)
 	4. 
