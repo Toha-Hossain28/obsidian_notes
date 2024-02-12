@@ -35,7 +35,7 @@ struct Stack{
 
 - ## Implementation Of **Stack**
 	- Using [Array](Array_Stack_Implementation.md)
-	- Using [Linked List](Linked_List_Stack_Implementatio.md)
+	- Using [Linked List](Linked_List_Stack_Implementation.md)
 		- [LINKED_LIST](LINKED_LIST.md)
 
 

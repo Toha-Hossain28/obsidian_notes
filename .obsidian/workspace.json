@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Counting Sort.md",
+                "file": "COMP_SCI/Linked_List_Stack_Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Counting Sort.md",
+                "file": "COMP_SCI/Linked_List_Stack_Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Counting Sort.md",
+                "file": "COMP_SCI/Linked_List_Stack_Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Counting Sort.md"
+                "file": "COMP_SCI/Linked_List_Stack_Implementation.md"
               }
             }
           }
@@ -159,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b988d90f7f62776b",
+  "active": "38289d7ca56dbaf6",
   "lastOpenFiles": [
-    "COMP_SCI/Array_Stack_Implementation.md",
+    "COMP_SCI/STACK.md",
+    "COMP_SCI/Queue_with_array.md",
     "COMP_SCI/Counting Sort.md",
+    "COMP_SCI/Array_Stack_Implementation.md",
     "COMP_SCI/Circular_LL.md",
     "COMP_SCI/Concatenate_2_LL.md",
     "COMP_SCI/Counting_Elements_And_Sum_of_Elements.md",
@@ -179,13 +181,11 @@
     "COMP_SCI/Parenthesis_Matching_using_Stack.md",
     "COMP_SCI/Post-Fix_Evaluation.md",
     "COMP_SCI/Queue.md",
-    "COMP_SCI/Queue_with_array.md",
     "COMP_SCI/Queue_with_LL.md",
     "COMP_SCI/Remove_Duplicate.md",
     "COMP_SCI/Reversing_LL.md",
     "COMP_SCI/Searching.md",
     "COMP_SCI/Singly_LL.md",
-    "COMP_SCI/STACK.md",
     "IMGS/Queue.png",
     "IMGS/CircularLL.png",
     "IMGS/DoublyLL.png",
