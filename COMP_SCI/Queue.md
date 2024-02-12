@@ -26,5 +26,6 @@ struct Queue{
 - ## **Queue** Implementation
 	- Using [Array](Queue_with_Array.md)
 	- Using [Linked List](Queue_with_LL.md)
-	go to [LINKED_LIST](LINKED_LIST.md)
+		go to [LINKED_LIST](LINKED_LIST.md)
+	- [Circular_Queue](Circular_Queue.md)
 

@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Linked_List_Stack_Implementation.md",
+                "file": "COMP_SCI/Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92493bc9c48c202b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP_SCI/Circular_Queue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Linked_List_Stack_Implementation.md",
+                "file": "COMP_SCI/Circular_Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Linked_List_Stack_Implementation.md",
+                "file": "COMP_SCI/Circular_Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Linked_List_Stack_Implementation.md"
+                "file": "COMP_SCI/Circular_Queue.md"
               }
             }
           }
@@ -159,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38289d7ca56dbaf6",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
+    "COMP_SCI/Queue.md",
+    "COMP_SCI/Circular_Queue.md",
+    "COMP_SCI/Linked_List_Stack_Implementation.md",
     "COMP_SCI/STACK.md",
     "COMP_SCI/Queue_with_array.md",
     "COMP_SCI/Counting Sort.md",
@@ -175,12 +190,10 @@
     "COMP_SCI/Insertion.md",
     "COMP_SCI/Is_Sorted.md",
     "COMP_SCI/LINKED_LIST.md",
-    "COMP_SCI/Linked_List_Stack_Implementation.md",
     "COMP_SCI/Loop_Check.md",
     "COMP_SCI/Max_And_Min.md",
     "COMP_SCI/Parenthesis_Matching_using_Stack.md",
     "COMP_SCI/Post-Fix_Evaluation.md",
-    "COMP_SCI/Queue.md",
     "COMP_SCI/Queue_with_LL.md",
     "COMP_SCI/Remove_Duplicate.md",
     "COMP_SCI/Reversing_LL.md",
@@ -193,7 +206,6 @@
     "IMGS/SinglyLL.png",
     "IMGS/Precedence.png",
     "IMGS/Queue-Data-structure1.png.fdmdownload",
-    "Markdown.md",
     "IMGS/Stack-Data-Structure.png"
   ]
 }
