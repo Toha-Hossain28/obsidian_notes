@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PalindromeCheck_Stack&Queue.md",
+                "file": "COMP_SCI/PalindromeCheck_Stack&Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72842673403cb48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP_SCI/Sorting/Count_Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PalindromeCheck_Stack&Queue.md",
+                "file": "COMP_SCI/Sorting/Count_Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PalindromeCheck_Stack&Queue.md",
+                "file": "COMP_SCI/Sorting/Count_Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PalindromeCheck_Stack&Queue.md"
+                "file": "COMP_SCI/Sorting/Count_Sort.md"
               }
             }
           }
@@ -183,15 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "683e03f541e4b009",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
+    "COMP_SCI/Sorting/Counting Sort.md",
+    "COMP_SCI/Sorting/Count_Sort.md",
+    "COMP_SCI/PalindromeCheck_Stack&Queue.md",
+    "COMP_SCI/Sorting",
     "COMP_SCI/Queue.md",
-    "PalindromeCheck_Stack&Queue.md",
     "COMP_SCI/Circular_Queue.md",
     "COMP_SCI/Linked_List_Stack_Implementation.md",
     "COMP_SCI/STACK.md",
     "COMP_SCI/Queue_with_array.md",
-    "COMP_SCI/Counting Sort.md",
     "COMP_SCI/Array_Stack_Implementation.md",
     "COMP_SCI/Circular_LL.md",
     "COMP_SCI/Concatenate_2_LL.md",
@@ -209,8 +223,6 @@
     "COMP_SCI/Post-Fix_Evaluation.md",
     "COMP_SCI/Queue_with_LL.md",
     "COMP_SCI/Remove_Duplicate.md",
-    "COMP_SCI/Reversing_LL.md",
-    "COMP_SCI/Searching.md",
     "IMGS/Queue.png",
     "IMGS/CircularLL.png",
     "IMGS/DoublyLL.png",
