@@ -29,3 +29,6 @@ struct Queue{
 		go to [LINKED_LIST](LINKED_LIST.md)
 	- [Circular_Queue](Circular_Queue.md)
 
+- ## Problems with Queue
+	- [Palindrome_Check](PalindromeCheck_Stack&Queue.md)
+	- 

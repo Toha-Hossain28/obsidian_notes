@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "683e03f541e4b009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PalindromeCheck_Stack&Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92493bc9c48c202b",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Circular_Queue.md",
+                "file": "PalindromeCheck_Stack&Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Circular_Queue.md",
+                "file": "PalindromeCheck_Stack&Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Circular_Queue.md"
+                "file": "PalindromeCheck_Stack&Queue.md"
               }
             }
           }
@@ -171,9 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b988d90f7f62776b",
+  "active": "683e03f541e4b009",
   "lastOpenFiles": [
     "COMP_SCI/Queue.md",
+    "PalindromeCheck_Stack&Queue.md",
     "COMP_SCI/Circular_Queue.md",
     "COMP_SCI/Linked_List_Stack_Implementation.md",
     "COMP_SCI/STACK.md",
@@ -198,7 +211,6 @@
     "COMP_SCI/Remove_Duplicate.md",
     "COMP_SCI/Reversing_LL.md",
     "COMP_SCI/Searching.md",
-    "COMP_SCI/Singly_LL.md",
     "IMGS/Queue.png",
     "IMGS/CircularLL.png",
     "IMGS/DoublyLL.png",
