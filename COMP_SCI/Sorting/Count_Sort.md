@@ -7,7 +7,7 @@ using namespace std;
 int m[1000]; // Moved the counting array declaration outside the function
 
 int maximum(int arr[], int n) {
-    int max_val = INT_MIN; // Initialize to minimum possible value
+    int max_val = arr[0];
     for (int i = 0; i < n; i++) {
         if (arr[i] > max_val) {
             max_val = arr[i];
@@ -17,7 +17,7 @@ int maximum(int arr[], int n) {
 }
 
 int minimum(int arr[], int n) {
-    int min_val = INT_MAX; // Initialize to maximum possible value
+    int min_val = arr[0]; 
     for (int i = 0; i < n; i++) {
         if (arr[i] < min_val) {
             min_val = arr[i];
