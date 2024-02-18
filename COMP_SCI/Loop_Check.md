@@ -1,3 +1,4 @@
+#DSA 
 ## Check if the LL is linear or not?
 
 ### 2 pointer method (==if the LL don't have Tail pointer==)

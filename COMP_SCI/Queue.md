@@ -1,3 +1,4 @@
+#DSA 
 # What is **Queue**
 
 ![Queue](/IMGS/Queue.png)
@@ -6,7 +7,7 @@ A **Queue*** is defined as a linear data structure that is open at both ends a
 
 - ## **Queue** Structure
 	
-	with [LINKED_LIST](LINKED_LINK.md)
+	with [LINKED_LIST](LINKED_LIST.md)
 	
 ```c++
 

@@ -1,4 +1,4 @@
-
+#DSA 
 ```c++
 /// here i scanf from the left to right
 

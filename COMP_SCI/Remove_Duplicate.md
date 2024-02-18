@@ -1,3 +1,4 @@
+#DSA 
 ## If the LL is sorted
 ```c++
 void RemoveDuplicate(struct Node *p) {

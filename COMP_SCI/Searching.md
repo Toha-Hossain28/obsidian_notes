@@ -1,3 +1,4 @@
+#DSA #searching
 ## Linear Search on LL
 ```c++
 Node* search(struct Node* Head, int key){
