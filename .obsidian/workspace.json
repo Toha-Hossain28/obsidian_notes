@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DSA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6c0291100e21ebd",
+  "active": "5e24f322def1ffeb",
   "lastOpenFiles": [
     "COMP_SCI/Sorting/Count_Sort.md",
     "problems_solved/Array_partition.md",
