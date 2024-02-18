@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6c0291100e21ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "problems_solved/Array_partition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Sorting/Count_Sort.md",
+                "file": "problems_solved/Array_partition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Sorting/Count_Sort.md",
+                "file": "problems_solved/Array_partition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Sorting/Count_Sort.md"
+                "file": "problems_solved/Array_partition.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa261f12a18c0c3d",
+  "active": "a6c0291100e21ebd",
   "lastOpenFiles": [
+    "COMP_SCI/Sorting/Count_Sort.md",
+    "problems_solved/Array_partition.md",
+    "problems_solved",
+    "Untitled.canvas",
     "COMP_SCI/PalindromeCheck_Stack&Queue.md",
     "COMP_SCI/Circular_Queue.md",
     "COMP_SCI/Singly_LL.md",
@@ -172,9 +189,6 @@
     "COMP_SCI/Array_Stack_Implementation.md",
     "COMP_SCI/Deletion.md",
     "COMP_SCI/Insertion.md",
-    "COMP_SCI/Searching.md",
-    "COMP_SCI/Display.md",
-    "Untitled.canvas",
     "COMP_SCI/Sorting",
     "IMGS/Queue.png",
     "IMGS/CircularLL.png",
