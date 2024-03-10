@@ -22,7 +22,7 @@ int find_max(int arr[],int n){
 void radix_sort(int arr[],int n){
     int max = find_max(arr,n);
     Node** ptr = new Node*[10];
-    int div=0;
+    int div=1;
     while(div<max){
         for(int i=0;i<n;i++){
             int index = (arr[i]/div)%10;
