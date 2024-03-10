@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa261f12a18c0c3d",
+            "id": "38029ee1e39b731d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Sorting/Count_Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d54b351cae3d5934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP_SCI/Sorting/Bucket_Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec9ab5a037acbdcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP_SCI/Sorting/Radix_Sort.md",
+                "file": "COMP_SCI/Sorting/Merge_Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Sorting/Count_Sort.md",
+                "file": "COMP_SCI/Sorting/Merge_Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Sorting/Count_Sort.md",
+                "file": "COMP_SCI/Sorting/Merge_Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Sorting/Count_Sort.md"
+                "file": "COMP_SCI/Sorting/Merge_Sort.md"
               }
             }
           }
@@ -170,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa261f12a18c0c3d",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
+    "COMP_SCI/Sorting/Count_Sort.md",
+    "COMP_SCI/Sorting/Merge_Sort.md",
     "COMP_SCI/Sorting/Bucket_Sort.md",
     "COMP_SCI/Sorting/Radix_Sort.md",
-    "COMP_SCI/Sorting/Count_Sort.md",
     "problems_solved/Array_partition.md",
     "problems_solved",
     "Untitled.canvas",
@@ -199,7 +176,6 @@
     "COMP_SCI/Doubly_LL.md",
     "COMP_SCI/Counting_Elements_And_Sum_of_Elements.md",
     "COMP_SCI/Circular_LL.md",
-    "COMP_SCI/Array_Stack_Implementation.md",
     "COMP_SCI/Sorting",
     "IMGS/Queue.png",
     "IMGS/CircularLL.png",
