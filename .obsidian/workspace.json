@@ -11,15 +11,24 @@
             "id": "38029ee1e39b731d",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e7e474a589d818c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Sorting/Merge_Sort.md",
+                "file": "My_journal/Goru-Hindu_&_Muslim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Sorting/Merge_Sort.md",
+                "file": "My_journal/Goru-Hindu_&_Muslim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Sorting/Merge_Sort.md",
+                "file": "My_journal/Goru-Hindu_&_Muslim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Sorting/Merge_Sort.md"
+                "file": "My_journal/Goru-Hindu_&_Muslim.md"
               }
             }
           }
@@ -146,36 +155,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38029ee1e39b731d",
+  "active": "7e7e474a589d818c",
   "lastOpenFiles": [
+    "My_journal/Goru-Hindu_&_Muslim.md",
+    "My_journal",
+    "COMP_SCI/Queue/PalindromeCheck_Stack&Queue.md",
+    "COMP_SCI/Linked_list/Remove_Duplicate.md",
+    "COMP_SCI/Stack/Array_Stack_Implementation.md",
+    "COMP_SCI/Queue",
     "COMP_SCI/Sorting/Merge_Sort.md",
+    "COMP_SCI/Stack",
+    "COMP_SCI/Linked_list/Singly_LL.md",
+    "COMP_SCI/Linked_list/Searching.md",
+    "COMP_SCI/Linked_list/Reversing_LL.md",
+    "COMP_SCI/Linked_list/Max_And_Min.md",
+    "COMP_SCI/Linked_list/Loop_Check.md",
+    "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
+    "COMP_SCI/Linked_list/LINKED_LIST.md",
+    "COMP_SCI/Linked_list/Is_Sorted.md",
+    "COMP_SCI/Linked_list/Insertion.md",
+    "COMP_SCI/Linked_list/Doubly_LL.md",
+    "COMP_SCI/Linked_list/Display.md",
+    "COMP_SCI/Linked_list/Deletion.md",
+    "COMP_SCI/Linked_list/Counting_Elements_And_Sum_of_Elements.md",
+    "COMP_SCI/Linked_list/Concatenate_2_LL.md",
+    "COMP_SCI/Linked_list/Circular_LL.md",
+    "COMP_SCI/Linked_list",
     "COMP_SCI/Sorting/Count_Sort.md",
     "COMP_SCI/Sorting/Bucket_Sort.md",
     "COMP_SCI/Sorting/Radix_Sort.md",
     "problems_solved/Array_partition.md",
     "problems_solved",
     "Untitled.canvas",
-    "COMP_SCI/PalindromeCheck_Stack&Queue.md",
-    "COMP_SCI/Circular_Queue.md",
+    "COMP_SCI/Queue/Circular_Queue.md",
     "COMP_SCI/Singly_LL.md",
-    "COMP_SCI/STACK.md",
-    "COMP_SCI/Reversing_LL.md",
-    "COMP_SCI/Remove_Duplicate.md",
-    "COMP_SCI/Queue_with_array.md",
-    "COMP_SCI/Queue_with_LL.md",
-    "COMP_SCI/Queue.md",
-    "COMP_SCI/Post-Fix_Evaluation.md",
-    "COMP_SCI/Parenthesis_Matching_using_Stack.md",
-    "COMP_SCI/Concatenate_2_LL.md",
-    "COMP_SCI/Max_And_Min.md",
-    "COMP_SCI/Loop_Check.md",
-    "COMP_SCI/Linked_List_Stack_Implementation.md",
-    "COMP_SCI/LINKED_LIST.md",
-    "COMP_SCI/Is_Sorted.md",
-    "COMP_SCI/Infix_to_Postfix_using_Stack.md",
-    "COMP_SCI/Doubly_LL.md",
-    "COMP_SCI/Counting_Elements_And_Sum_of_Elements.md",
-    "COMP_SCI/Circular_LL.md",
     "COMP_SCI/Sorting",
     "IMGS/Queue.png",
     "IMGS/CircularLL.png",

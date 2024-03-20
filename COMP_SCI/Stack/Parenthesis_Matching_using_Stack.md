@@ -169,4 +169,4 @@ return 0;
 }
 ```
 
-Go back to [STACK](COMP_SCI/STACK)
+Go back to [STACK](STACK.md)
