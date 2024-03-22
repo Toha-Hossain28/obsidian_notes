@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6afea3179bc96a17",
+        "id": "9ea72beb5e93e8f0",
         "type": "tabs",
         "children": [
           {
-            "id": "38029ee1e39b731d",
+            "id": "c8989d6bda29ed5b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "7e7e474a589d818c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My_journal/Goru-Hindu_&_Muslim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My_journal/Goru-Hindu_&_Muslim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My_journal/Goru-Hindu_&_Muslim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My_journal/Goru-Hindu_&_Muslim.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e7e474a589d818c",
+  "active": "c8989d6bda29ed5b",
   "lastOpenFiles": [
+    "Intersection_of_Two_Arrays.md",
+    "Longest Sub-sequence With Limited Sum.md",
+    "Count_negative_numbers_in_a_sorted_matrix.md",
+    "4,3,2,-1],[3,2,1,-1],[1,1,-1,-2],[-1,-1,-2,-3.md",
+    "COMP_SCI/Linked_list/LINKED_LIST.md",
+    "Count_Pairs_Whose_Sum_is_Less_than_Target.md",
+    "COMP_SCI/Linked_list/Counting_Elements_And_Sum_of_Elements.md",
     "My_journal/Goru-Hindu_&_Muslim.md",
     "My_journal",
     "COMP_SCI/Queue/PalindromeCheck_Stack&Queue.md",
@@ -171,24 +161,17 @@
     "COMP_SCI/Linked_list/Max_And_Min.md",
     "COMP_SCI/Linked_list/Loop_Check.md",
     "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
-    "COMP_SCI/Linked_list/LINKED_LIST.md",
     "COMP_SCI/Linked_list/Is_Sorted.md",
     "COMP_SCI/Linked_list/Insertion.md",
     "COMP_SCI/Linked_list/Doubly_LL.md",
     "COMP_SCI/Linked_list/Display.md",
     "COMP_SCI/Linked_list/Deletion.md",
-    "COMP_SCI/Linked_list/Counting_Elements_And_Sum_of_Elements.md",
     "COMP_SCI/Linked_list/Concatenate_2_LL.md",
     "COMP_SCI/Linked_list/Circular_LL.md",
     "COMP_SCI/Linked_list",
     "COMP_SCI/Sorting/Count_Sort.md",
-    "COMP_SCI/Sorting/Bucket_Sort.md",
-    "COMP_SCI/Sorting/Radix_Sort.md",
-    "problems_solved/Array_partition.md",
     "problems_solved",
     "Untitled.canvas",
-    "COMP_SCI/Queue/Circular_Queue.md",
-    "COMP_SCI/Singly_LL.md",
     "COMP_SCI/Sorting",
     "IMGS/Queue.png",
     "IMGS/CircularLL.png",
