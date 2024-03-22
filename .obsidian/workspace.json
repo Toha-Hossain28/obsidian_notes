@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "223ab493da3efda6",
+        "id": "f86779ec5b686800",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7deb20883bed76",
+            "id": "1c86965b43347071",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad7deb20883bed76",
+  "active": "1c86965b43347071",
   "lastOpenFiles": [
+    "Square_root.md",
     "Check If N and Its Double Exist.md",
     "Intersection_of_Two_Arrays.md",
     "Longest Sub-sequence With Limited Sum.md",
@@ -168,7 +169,6 @@
     "COMP_SCI/Linked_list/Display.md",
     "COMP_SCI/Linked_list/Deletion.md",
     "COMP_SCI/Linked_list/Concatenate_2_LL.md",
-    "COMP_SCI/Linked_list/Circular_LL.md",
     "COMP_SCI/Linked_list",
     "problems_solved",
     "Untitled.canvas",
