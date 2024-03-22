@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ea72beb5e93e8f0",
+        "id": "223ab493da3efda6",
         "type": "tabs",
         "children": [
           {
-            "id": "c8989d6bda29ed5b",
+            "id": "ad7deb20883bed76",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8989d6bda29ed5b",
+  "active": "ad7deb20883bed76",
   "lastOpenFiles": [
+    "Check If N and Its Double Exist.md",
     "Intersection_of_Two_Arrays.md",
     "Longest Sub-sequence With Limited Sum.md",
     "Count_negative_numbers_in_a_sorted_matrix.md",
@@ -169,7 +170,6 @@
     "COMP_SCI/Linked_list/Concatenate_2_LL.md",
     "COMP_SCI/Linked_list/Circular_LL.md",
     "COMP_SCI/Linked_list",
-    "COMP_SCI/Sorting/Count_Sort.md",
     "problems_solved",
     "Untitled.canvas",
     "COMP_SCI/Sorting",
