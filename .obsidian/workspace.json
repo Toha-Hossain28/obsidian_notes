@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "be8365d1f753c24a",
+        "id": "01325e2023f55eac",
         "type": "tabs",
         "children": [
           {
-            "id": "23a333c2aa99d62e",
+            "id": "159802ffde918bb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP_SCI/Queue/Sort_Queue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bb5308fa64de48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Increasing_Order_Search_Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5268b0c56b2fc69e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Range Sum of BST.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Range Sum of BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Range Sum of BST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Range Sum of BST.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,11 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5268b0c56b2fc69e",
+  "active": "159802ffde918bb8",
   "lastOpenFiles": [
+    "COMP_SCI/Queue/Sort_Queue.md",
     "Increasing_Order_Search_Tree.md",
     "Range Sum of BST.md",
-    "COMP_SCI/Queue/Sort_Queue.md",
+    "Count Complete Tree Nodes.md",
     "COMP_SCI/Linked_list/Sort_Single_LL.md",
     "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
     "Naimul_opkormo.md",
@@ -201,7 +169,6 @@
     "COMP_SCI/Sorting/Merge_Sort.md",
     "COMP_SCI/Stack",
     "COMP_SCI/Linked_list/Singly_LL.md",
-    "COMP_SCI/Linked_list/Searching.md",
     "COMP_SCI/Linked_list",
     "problems_solved",
     "Untitled.canvas",
