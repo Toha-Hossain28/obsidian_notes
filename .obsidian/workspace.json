@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8565eb2f82c13be4",
+        "id": "be8365d1f753c24a",
         "type": "tabs",
         "children": [
           {
-            "id": "8415b622950b34ef",
+            "id": "23a333c2aa99d62e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
+                "file": "COMP_SCI/Queue/Sort_Queue.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5c29628d3477d6f",
+            "id": "0bb5308fa64de48d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naimul_opkormo.md",
+                "file": "Increasing_Order_Search_Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naimul_opkormo.md",
+                "file": "Increasing_Order_Search_Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naimul_opkormo.md",
+                "file": "Increasing_Order_Search_Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naimul_opkormo.md"
+                "file": "Increasing_Order_Search_Tree.md"
               }
             }
           }
@@ -159,14 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5c29628d3477d6f",
+  "active": "0bb5308fa64de48d",
   "lastOpenFiles": [
+    "COMP_SCI/Queue/Sort_Queue.md",
+    "Increasing_Order_Search_Tree.md",
+    "COMP_SCI/Linked_list/Sort_Single_LL.md",
     "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
     "Naimul_opkormo.md",
+    "BST_search.md",
     "COMP_SCI/Stack/STACK.md",
     "COMP_SCI/Linked_list/LINKED_LIST.md",
-    "COMP_SCI/Queue/Sort_Queue.md",
-    "COMP_SCI/Linked_list/Sort_Single_LL.md",
     "COMP_SCI/Queue/Queue.md",
     "COMP_SCI/Queue/Queue_with_LL.md",
     "Count_negative_numbers_in_a_sorted_matrix.md",
@@ -188,8 +190,6 @@
     "COMP_SCI/Linked_list/Singly_LL.md",
     "COMP_SCI/Linked_list/Searching.md",
     "COMP_SCI/Linked_list/Reversing_LL.md",
-    "COMP_SCI/Linked_list/Max_And_Min.md",
-    "COMP_SCI/Linked_list/Loop_Check.md",
     "COMP_SCI/Linked_list",
     "problems_solved",
     "Untitled.canvas",
