@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5c29628d3477d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naimul_opkormo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
+                "file": "Naimul_opkormo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
+                "file": "Naimul_opkormo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md"
+                "file": "Naimul_opkormo.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8415b622950b34ef",
+  "active": "e5c29628d3477d6f",
   "lastOpenFiles": [
+    "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
+    "Naimul_opkormo.md",
     "COMP_SCI/Stack/STACK.md",
     "COMP_SCI/Linked_list/LINKED_LIST.md",
     "COMP_SCI/Queue/Sort_Queue.md",
@@ -175,8 +190,6 @@
     "COMP_SCI/Linked_list/Reversing_LL.md",
     "COMP_SCI/Linked_list/Max_And_Min.md",
     "COMP_SCI/Linked_list/Loop_Check.md",
-    "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
-    "COMP_SCI/Linked_list/Is_Sorted.md",
     "COMP_SCI/Linked_list",
     "problems_solved",
     "Untitled.canvas",
