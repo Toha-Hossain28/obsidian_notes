@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01325e2023f55eac",
+        "id": "be3a384807aaf142",
         "type": "tabs",
         "children": [
           {
-            "id": "159802ffde918bb8",
+            "id": "fa53c0367338d1cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP_SCI/Linked_list/Reversing_LL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Linked_list/Reversing_LL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Linked_list/Reversing_LL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMP_SCI/Linked_list/Reversing_LL.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "159802ffde918bb8",
+  "active": "fa53c0367338d1cb",
   "lastOpenFiles": [
+    "COMP_SCI/Tree/Binary_Search_Tree.md",
+    "COMP_SCI/Tree/Tree_creation_using_array.md",
+    "COMP_SCI/Linked_list/Reversing_LL.md",
+    "SubArray.md",
+    "Kadane.md",
+    "COMP_SCI/Tree",
     "COMP_SCI/Linked_list/Doubly_LL.md",
     "Word generator recurrsion.md",
     "COMP_SCI/Queue/Sort_Queue.md",
@@ -169,12 +167,7 @@
     "Intersection_of_Two_Arrays.md",
     "Longest Sub-sequence With Limited Sum.md",
     "Count_Pairs_Whose_Sum_is_Less_than_Target.md",
-    "COMP_SCI/Linked_list/Counting_Elements_And_Sum_of_Elements.md",
-    "My_journal/Goru-Hindu_&_Muslim.md",
     "My_journal",
-    "COMP_SCI/Queue/PalindromeCheck_Stack&Queue.md",
-    "COMP_SCI/Linked_list/Remove_Duplicate.md",
-    "COMP_SCI/Stack/Array_Stack_Implementation.md",
     "COMP_SCI/Queue",
     "COMP_SCI/Stack",
     "COMP_SCI/Linked_list",
