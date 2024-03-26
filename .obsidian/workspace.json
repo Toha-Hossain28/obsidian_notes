@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Word generator recurrsion.md",
+                "file": "COMP_SCI/Linked_list/Reversing_LL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Word generator recurrsion.md",
+                "file": "COMP_SCI/Linked_list/Reversing_LL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Word generator recurrsion.md",
+                "file": "COMP_SCI/Linked_list/Reversing_LL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Word generator recurrsion.md"
+                "file": "COMP_SCI/Linked_list/Reversing_LL.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "159802ffde918bb8",
   "lastOpenFiles": [
+    "COMP_SCI/Linked_list/Doubly_LL.md",
     "Word generator recurrsion.md",
     "COMP_SCI/Queue/Sort_Queue.md",
     "Increasing_Order_Search_Tree.md",
@@ -175,7 +176,6 @@
     "COMP_SCI/Linked_list/Remove_Duplicate.md",
     "COMP_SCI/Stack/Array_Stack_Implementation.md",
     "COMP_SCI/Queue",
-    "COMP_SCI/Sorting/Merge_Sort.md",
     "COMP_SCI/Stack",
     "COMP_SCI/Linked_list",
     "problems_solved",
