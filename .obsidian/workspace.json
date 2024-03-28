@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be3a384807aaf142",
+        "id": "53099bdc5bb577e9",
         "type": "tabs",
         "children": [
           {
-            "id": "fa53c0367338d1cb",
+            "id": "585a7d69bdca8281",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,9 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa53c0367338d1cb",
+  "active": "585a7d69bdca8281",
   "lastOpenFiles": [
+    "Minimum Distance Between BST Nodes.md",
+    "Two Sum IV - Input is a BST.md",
     "COMP_SCI/Tree/Binary_Search_Tree.md",
+    "Convert Sorted Array to Binary Search Tree.md",
     "COMP_SCI/Tree/Tree_creation_using_array.md",
     "COMP_SCI/Linked_list/Reversing_LL.md",
     "SubArray.md",
@@ -164,9 +167,6 @@
     "4,3,2,-1],[3,2,1,-1],[1,1,-1,-2],[-1,-1,-2,-3.md",
     "Square_root.md",
     "Check If N and Its Double Exist.md",
-    "Intersection_of_Two_Arrays.md",
-    "Longest Sub-sequence With Limited Sum.md",
-    "Count_Pairs_Whose_Sum_is_Less_than_Target.md",
     "My_journal",
     "COMP_SCI/Queue",
     "COMP_SCI/Stack",
