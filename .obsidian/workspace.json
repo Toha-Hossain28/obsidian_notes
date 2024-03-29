@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "334a72083284d29b",
+        "id": "37902681e8920bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "86126fec32ed9e9b",
+            "id": "497ef1ec18eb44c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combination_of_string.md",
+                "file": "lab5_b.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "77363bcc1d87d47b",
+            "id": "cd0ab7cfab643773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDK.md",
+                "file": "Infix_Postfix.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDK.md",
+                "file": "Infix_Postfix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDK.md",
+                "file": "Infix_Postfix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDK.md"
+                "file": "Infix_Postfix.md"
               }
             }
           }
@@ -159,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77363bcc1d87d47b",
+  "active": "cd0ab7cfab643773",
   "lastOpenFiles": [
+    "lab5_b.md",
+    "Infix_Postfix.md",
     "Combination_of_string.md",
     "IDK.md",
     "Combinatio_ascending.md",
@@ -186,8 +188,6 @@
     "Word generator recurrsion.md",
     "COMP_SCI/Queue/Sort_Queue.md",
     "Increasing_Order_Search_Tree.md",
-    "Range Sum of BST.md",
-    "Count Complete Tree Nodes.md",
     "My_journal",
     "COMP_SCI/Queue",
     "COMP_SCI/Stack",
