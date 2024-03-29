@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e271c06b1498e9",
+        "id": "334a72083284d29b",
         "type": "tabs",
         "children": [
           {
-            "id": "60196d417e10325b",
+            "id": "86126fec32ed9e9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP_SCI/Tree/Binary_Search_Tree.md",
+                "file": "Combination_of_string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77363bcc1d87d47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDK.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/Tree/Binary_Search_Tree.md",
+                "file": "IDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/Tree/Binary_Search_Tree.md",
+                "file": "IDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP_SCI/Tree/Binary_Search_Tree.md"
+                "file": "IDK.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60196d417e10325b",
+  "active": "77363bcc1d87d47b",
   "lastOpenFiles": [
+    "Combination_of_string.md",
+    "IDK.md",
+    "Combinatio_ascending.md",
+    "COMP_SCI/Tree/Binary_Search_Tree.md",
     "Min_val_in_BST.md",
     "Searching_in_BST.md",
     "COMP_SCI/Linked_list/Singly_LL.md",
@@ -157,7 +174,6 @@
     "IS_valid_BST_from_In-order.md",
     "COMP_SCI/Sorting/Merge_Sort.md",
     "Insertion_sort_with_binaary_search.md",
-    "COMP_SCI/Tree/Binary_Search_Tree.md",
     "Minimum Distance Between BST Nodes.md",
     "Second Minimum Node In a Binary Tree.md",
     "Two Sum IV - Input is a BST.md",
@@ -172,9 +188,6 @@
     "Increasing_Order_Search_Tree.md",
     "Range Sum of BST.md",
     "Count Complete Tree Nodes.md",
-    "COMP_SCI/Linked_list/Sort_Single_LL.md",
-    "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
-    "Naimul_opkormo.md",
     "My_journal",
     "COMP_SCI/Queue",
     "COMP_SCI/Stack",
