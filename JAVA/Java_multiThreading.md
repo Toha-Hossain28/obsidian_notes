@@ -126,6 +126,21 @@ class test
 		- void yield();
 			- starvation: if a thread is having way to high priority and other
 			 threads are waiting for a long time.
-			 this method will tell the JVM to hold the higher priority thread an
-			 give some time to the low priority thread
+			 this method will tell the JVM to hold the higher priority thread
+			 and give some time to the low priority thread
 		- void dumpStack();
+
+
+## Synchronization
+
+1.  ___Resource Shearing___ : 
+     more than one thread is sharing some object or variable
+2.  ___Critical Section___ :
+     that part of code of thread where a shared resource is being accessed
+3. ___Mutual Exclusion___ :
+     happening of one prevents happening of another. Means if a thread is accessing some shared resource another thread must not access that resource. If that happens then we may have mixed result.  
+1. ___Locking/Mutex___ :
+2. ___Semaphore___ :
+3. ___Monitor___ :
+4. ___Race Condition___ :
+5. ___Inter-Thread Communication___ :
