@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "37902681e8920bd6",
+        "id": "835709e8f89a5dff",
         "type": "tabs",
         "children": [
           {
-            "id": "497ef1ec18eb44c6",
+            "id": "2ad236aa6de5acab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lab5_b.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd0ab7cfab643773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infix_Postfix.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infix_Postfix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infix_Postfix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Infix_Postfix.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,12 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd0ab7cfab643773",
+  "active": "2ad236aa6de5acab",
   "lastOpenFiles": [
     "lab5_b.md",
+    "Increasing_Order_Search_Tree.md",
+    "IDK.md",
     "Infix_Postfix.md",
     "Combination_of_string.md",
-    "IDK.md",
     "Combinatio_ascending.md",
     "COMP_SCI/Tree/Binary_Search_Tree.md",
     "Min_val_in_BST.md",
@@ -187,7 +167,6 @@
     "COMP_SCI/Linked_list/Doubly_LL.md",
     "Word generator recurrsion.md",
     "COMP_SCI/Queue/Sort_Queue.md",
-    "Increasing_Order_Search_Tree.md",
     "My_journal",
     "COMP_SCI/Queue",
     "COMP_SCI/Stack",
