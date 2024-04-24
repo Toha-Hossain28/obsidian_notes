@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java_assignments.md",
+                "file": "JAVA/Java_multiThreading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4071ae882a455090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java_assignments.md",
+                "file": "JAVA/Java_multiThreading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java_assignments.md",
+                "file": "JAVA/Java_multiThreading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java_assignments.md"
+                "file": "JAVA/Java_multiThreading.md"
               }
             }
           }
@@ -148,8 +160,10 @@
   },
   "active": "2ad236aa6de5acab",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Markdown.md",
+    "JAVA/Java_multiThreading.md",
     "JAVA/Java_assignments.md",
+    "Untitled.md",
     "problems_solved/Count_negative_numbers_in_a_sorted_matrix.md",
     "JAVA",
     "problems_solved/lab5_b.md",
@@ -173,8 +187,6 @@
     "problems_solved/Two Sum IV - Input is a BST.md",
     "problems_solved/Convert Sorted Array to Binary Search Tree.md",
     "COMP_SCI/Linked_list/Reversing_LL.md",
-    "problems_solved/SubArray.md",
-    "problems_solved/Kadane.md",
     "COMP_SCI/Tree",
     "My_journal",
     "COMP_SCI/Queue",
