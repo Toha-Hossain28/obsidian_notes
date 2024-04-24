@@ -139,8 +139,52 @@ class test
      that part of code of thread where a shared resource is being accessed
 3. ___Mutual Exclusion___ :
      happening of one prevents happening of another. Means if a thread is accessing some shared resource another thread must not access that resource. If that happens then we may have mixed result.  
-1. ___Locking/Mutex___ :
-2. ___Semaphore___ :
-3. ___Monitor___ :
-4. ___Race Condition___ :
-5. ___Inter-Thread Communication___ :
+4. ___Locking/Mutex___ :
+     thread manages the locking and unlocking of resources
+5. ___Semaphore___ :
+     operating system manages the locking and unlocking of resources using a queue
+6. ___Monitor___ :
+     shared resource is a object and the object is responsible for locking and unlocking 
+7. ___Race Condition___ :
+8. ___Inter-Thread Communication___ :
+
+
+```java
+class myData {
+	Synchronized public void display(String s) {
+		for(int i=0;i<s.length();i++){
+			System.out.println(s.charAt(i));
+		}
+	}
+}
+
+class myThread1 extends Thread {
+	myData d;
+	public void myThread1( myData d ) {
+		this.d = d;
+	}
+	public void run () {
+		d.display("Hello World!");
+	}
+}
+
+class myThread2 extends Thread {
+	myData d;
+	public void myThread2( myData d ) {
+		this.d = d;
+	}
+	public void run () {
+		d.display("Hello World!");
+	}
+}
+
+class main{
+	public static void main(String[] args){
+		mtData d = new myData();
+		myThread1 t1 = new myThrad1(d);
+		myThread2 t2 = new myThread2(d);
+		t1.start();
+		t2.start();
+	}
+}
+```
