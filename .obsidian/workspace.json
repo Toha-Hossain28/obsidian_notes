@@ -11,8 +11,12 @@
             "id": "2ad236aa6de5acab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Java_assignments.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVA/Java_assignments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVA/Java_assignments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVA/Java_assignments.md"
+              }
             }
           }
         ]
@@ -140,33 +148,34 @@
   },
   "active": "2ad236aa6de5acab",
   "lastOpenFiles": [
-    "lab5_b.md",
-    "Increasing_Order_Search_Tree.md",
-    "IDK.md",
-    "Infix_Postfix.md",
-    "Combination_of_string.md",
-    "Combinatio_ascending.md",
+    "Untitled.md",
+    "JAVA/Java_assignments.md",
+    "problems_solved/Count_negative_numbers_in_a_sorted_matrix.md",
+    "JAVA",
+    "problems_solved/lab5_b.md",
+    "problems_solved/Increasing_Order_Search_Tree.md",
+    "problems_solved/IDK.md",
+    "problems_solved/Infix_Postfix.md",
+    "problems_solved/Combination_of_string.md",
+    "problems_solved/Combinatio_ascending.md",
     "COMP_SCI/Tree/Binary_Search_Tree.md",
-    "Min_val_in_BST.md",
-    "Searching_in_BST.md",
+    "problems_solved/Min_val_in_BST.md",
+    "problems_solved/Searching_in_BST.md",
     "COMP_SCI/Linked_list/Singly_LL.md",
     "COMP_SCI/Sorting/Count_Sort.md",
     "COMP_SCI/Linked_list/LINKED_LIST.md",
     "COMP_SCI/Tree/Tree_creation_using_array.md",
-    "IS_valid_BST_from_In-order.md",
+    "problems_solved/IS_valid_BST_from_In-order.md",
     "COMP_SCI/Sorting/Merge_Sort.md",
-    "Insertion_sort_with_binaary_search.md",
-    "Minimum Distance Between BST Nodes.md",
-    "Second Minimum Node In a Binary Tree.md",
-    "Two Sum IV - Input is a BST.md",
-    "Convert Sorted Array to Binary Search Tree.md",
+    "problems_solved/Insertion_sort_with_binaary_search.md",
+    "problems_solved/Minimum Distance Between BST Nodes.md",
+    "problems_solved/Second Minimum Node In a Binary Tree.md",
+    "problems_solved/Two Sum IV - Input is a BST.md",
+    "problems_solved/Convert Sorted Array to Binary Search Tree.md",
     "COMP_SCI/Linked_list/Reversing_LL.md",
-    "SubArray.md",
-    "Kadane.md",
+    "problems_solved/SubArray.md",
+    "problems_solved/Kadane.md",
     "COMP_SCI/Tree",
-    "COMP_SCI/Linked_list/Doubly_LL.md",
-    "Word generator recurrsion.md",
-    "COMP_SCI/Queue/Sort_Queue.md",
     "My_journal",
     "COMP_SCI/Queue",
     "COMP_SCI/Stack",
