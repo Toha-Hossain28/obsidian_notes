@@ -1,7 +1,7 @@
 
 #JAVA #multi-threading
 ## What is multi programming? 
-Running more than one program in a single computer is called multi programming.
+ Running more than one program in a single computer is called multi programming.
 	Two types of multi programming :
 		1.  ___Multi user___ - *single computer multiple user*
 		2. ___Multitasking___ -  *single user running multiple program simultaneously*
@@ -46,4 +46,86 @@ class test
 	}
 }
 ```
-2. 
+2. Implementing Runnable Interface
+```java
+class runThread implements Runnable
+{
+	public void run () 
+	{
+		int i = 1;
+		while (true) 
+		{
+			System.out.println(i + "Hello");
+			i++;
+		}
+	}
+}
+class test 
+{
+	public static void main (String[] args)
+	{
+		runThread r = new runThread();
+		Thread t = new Thread(r);
+		t.start();
+		int i = 1;
+		while( true )
+		{
+			System.out.println(i + "World");
+			i++;
+		}	
+	}
+}
+```
+## States of Thread
+ 
+ ![[IMGS/Pasted image 20240424112525.png]]
+ ![[Thread status.png]]
+ - if a thread has finished it task you can't restart the thread you have to create a new thread.
+
+## Thread Priority
+
+
+## Constructors
+
+- Thread ( );
+- Thread ( String name );
+- Thread ( Runnable r);
+- Thread ( Runnable r, String name);
+- Thread ( ThreadGroup g, String name);
+	#### - getter and setter methods
+		- long getid();
+		- String getName();
+		- int getPriority();
+		- ThreadState getState();
+		- ThreadGroup getThreadGroup();
+		- void setName ( String name );
+		- void setPriority( int p );
+		- void setDaemon ( boolean b); 
+			 to set the thread as background thread (least thread priority)
+		
+	#### - Inquiry
+		- boolean isAlive();
+		- boolean isDaemon();
+		- boolean isInterrupted();
+		
+	#### - Instance method
+		- void interrupt();
+			- to stop the thread from doing what is was doing. this method 
+			 can be called by itself or other thread 
+		- void join();
+			- wait for other thread to complete instead of terminating
+		- void join( long millis);
+		- void run();
+		- void start();
+		
+	#### - Static methods
+		- int activeCount();
+			- gives how many threads are active in a group
+		- Thread currentThread();
+			- gives the reference of current thread 
+		- void yield();
+			- starvation: if a thread is having way to high priority and other
+			 threads are waiting for a long time.
+			 this method will tell the JVM to hold the higher priority thread an
+			 give some time to the low priority thread
+		- void dumpStack();
