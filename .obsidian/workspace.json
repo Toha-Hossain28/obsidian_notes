@@ -11,8 +11,24 @@
             "id": "a17e2ab0b5ec0804",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DAILY/02-05-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eb5b78e3fed7377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY/02-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DAILY/02-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY/02-05-2024.md"
+              }
             }
           }
         ]
@@ -140,10 +160,12 @@
   },
   "active": "a17e2ab0b5ec0804",
   "lastOpenFiles": [
+    "Markdown.md",
+    "DAILY/02-05-2024.md",
+    "Daily-",
     "COMP_SCI/Linked_list/LINKED_LIST.md",
     "JAVA/Java_multiThreading.md",
     "COMP_SCI/HEAP/Max&Min_Heap.md",
-    "Markdown.md",
     "JAVA/Java_assignments.md",
     "heap.md",
     "COMP_SCI/HEAP",
@@ -168,8 +190,6 @@
     "COMP_SCI/Sorting/Merge_Sort.md",
     "problems_solved/Insertion_sort_with_binaary_search.md",
     "problems_solved/Minimum Distance Between BST Nodes.md",
-    "problems_solved/Second Minimum Node In a Binary Tree.md",
-    "problems_solved/Two Sum IV - Input is a BST.md",
     "COMP_SCI/Tree",
     "My_journal",
     "COMP_SCI/Queue",
@@ -184,7 +204,6 @@
     "IMGS/LL.png",
     "IMGS/SinglyLL.png",
     "IMGS/Precedence.png",
-    "IMGS/Queue-Data-structure1.png.fdmdownload",
     "IMGS/Stack-Data-Structure.png"
   ]
 }
