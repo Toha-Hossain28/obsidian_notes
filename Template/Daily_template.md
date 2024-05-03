@@ -1,4 +1,4 @@
-## Days : [Yesterday](DAILY/<% tp.date.now("DD-MM-YYYY",-1,tp.file.title) %>)  <== [Today](<% tp.date.now("DD-MM-YYYY",0,tp.file.title) %>)  ==> [Tomorrow](DAILY/<% tp.date.tomorrow("DD-MM-YYYY",+1,tp.file.title) %>)
+## Days : [[DAILY/<% tp.date.now("YYYY-MM-DD",-1,tp.file.title) %>]]  <== [[<% tp.date.now("YYYY-MM-DD",0,tp.file.title) %>]]  ==> [[DAILY/<% tp.date.tomorrow("YYYY-MM-DD",+1,tp.file.title) %>]]
 
 
 
@@ -10,8 +10,14 @@
 
 
 
+### Learned
+- 
 
-## TO-DO
+
+
+
+
+# TO-DO
 
 - [ ] hello
 
@@ -19,5 +25,3 @@
 
 
 
-### Learned
-- 
