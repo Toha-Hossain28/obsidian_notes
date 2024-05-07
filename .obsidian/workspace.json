@@ -157,11 +157,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "b988d90f7f62776b",
+  "active": "d51f3861b3e82c0b",
   "lastOpenFiles": [
+    "IMGS/Employee_entity_JPA.png",
+    "IMGS/ConnectingDatabase.png",
     "IMGS/SpringInit.png",
     "DAILY/2024-05-07.md",
     "JAVA/JAVA_project_preparation.md",
@@ -206,7 +209,6 @@
     "IMGS/DoublyLL.png",
     "IMGS/LL.png",
     "IMGS/SinglyLL.png",
-    "IMGS/Precedence.png",
-    "IMGS/Stack-Data-Structure.png"
+    "IMGS/Precedence.png"
   ]
 }
