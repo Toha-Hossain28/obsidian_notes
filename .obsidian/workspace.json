@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2024-05-07.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/2024-05-07.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY/2024-05-07.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY/2024-05-07.md"
+                "file": "JAVA/JAVA_project_preparation.md"
               }
             }
           }
@@ -163,11 +163,11 @@
   },
   "active": "d51f3861b3e82c0b",
   "lastOpenFiles": [
+    "DAILY/2024-05-07.md",
+    "JAVA/JAVA_project_preparation.md",
     "IMGS/Employee_entity_JPA.png",
     "IMGS/ConnectingDatabase.png",
     "IMGS/SpringInit.png",
-    "DAILY/2024-05-07.md",
-    "JAVA/JAVA_project_preparation.md",
     "DAILY/2024-05-06.md",
     "DAILY/2024-05-05.md",
     "COMP_SCI/Sorting/Radix_Sort.md",
@@ -208,7 +208,6 @@
     "IMGS/CircularLL.png",
     "IMGS/DoublyLL.png",
     "IMGS/LL.png",
-    "IMGS/SinglyLL.png",
-    "IMGS/Precedence.png"
+    "IMGS/SinglyLL.png"
   ]
 }

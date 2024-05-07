@@ -13,3 +13,5 @@
 - Create a package under main package named `entity`
 - inside the package create a `java class file` named `Employee`
 ![JPA_entity_creation](IMGS/Employee_entity_JPA.png)
+
+## Creating Employee repository
