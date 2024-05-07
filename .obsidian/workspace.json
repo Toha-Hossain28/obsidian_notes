@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2024-05-06.md",
+                "file": "DAILY/2024-05-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/2024-05-06.md",
+                "file": "DAILY/2024-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY/2024-05-06.md",
+                "file": "DAILY/2024-05-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY/2024-05-06.md"
+                "file": "DAILY/2024-05-07.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "6e696acb698437d1",
   "lastOpenFiles": [
-    "DAILY/2024-05-05.md",
     "DAILY/2024-05-06.md",
+    "DAILY/2024-05-07.md",
+    "DAILY/2024-05-05.md",
     "COMP_SCI/Sorting/Radix_Sort.md",
     "COMP_SCI/Sorting/Merge_Sort.md",
     "COMP_SCI/Sorting/Count_Sort.md",
@@ -176,7 +177,6 @@
     "Markdown.md",
     "Template",
     "Daily-",
-    "COMP_SCI/Linked_list/LINKED_LIST.md",
     "COMP_SCI/HEAP",
     "IMGS/Thread status.png",
     "IMGS/Pasted image 20240424112525.png",
