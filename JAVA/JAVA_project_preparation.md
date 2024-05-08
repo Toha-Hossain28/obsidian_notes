@@ -138,3 +138,8 @@ import {BrowserRouter} from 'react-router-dom'
 ## Add Employee form
 ![](IMGS/addEmployeeFormSteps.png)
 
+![](IMGS/employeeComponentImpl.png)
+
+## Add Employee connect to REST API
+![](IMGS/AddEmployeeRESTConnect.png)
+
