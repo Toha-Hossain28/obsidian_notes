@@ -110,3 +110,31 @@ using Axios
 ### List employee component JSX
 ![](IMGS/frontToBack.png)
 
+
+## Adding Header and Footer
+#### Header
+![](IMGS/HeaderComp.png)
+
+#### Footer 
+![](IMGS/FooterComp.png)
+
+# Configure Routing
+
+![](IMGS/RoutingSteps.png)
+
+- `npm install react-route-dom --save`
+- import this in `App.jsx`
+```js
+import {BrowserRouter} from 'react-router-dom'
+```
+
+![](IMGS/routing.png)
+## Add employee route and navigate 
+![](IMGS/addEmployeeInAppJSX.png)
+
+#### Change in LIstEmployeeComponent (button add and navigator)
+![](IMGS/addEmployeeInList.png)
+
+## Add Employee form
+![](IMGS/addEmployeeFormSteps.png)
+

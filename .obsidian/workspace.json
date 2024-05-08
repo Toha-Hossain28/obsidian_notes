@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d0d77bcc90868add",
+            "id": "537c38f6fdb214e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5110321044922
+    "width": 334.5
   },
   "right": {
     "id": "928c32799bb4d616",
@@ -163,19 +163,19 @@
   },
   "active": "b988d90f7f62776b",
   "lastOpenFiles": [
-    "IMGS/frontToBack.png",
+    "IMGS/addEmployeeFormSteps.png",
+    "IMGS/addEmployeeInList.png",
+    "IMGS/addEmployeeInAppJSX.png",
     "DAILY/2024-05-08.md",
-    "IMGS/EmployeeServiceJS.png",
+    "Pasted image 20240508155604.png",
+    "IMGS/routing.png",
     "JAVA/JAVA_project_preparation.md",
+    "IMGS/RoutingSteps.png",
+    "IMGS/FooterComp.png",
+    "IMGS/HeaderComp.png",
+    "IMGS/frontToBack.png",
+    "IMGS/EmployeeServiceJS.png",
     "IMGS/EmployeeListinAppJSX.png",
-    "IMGS/ListEmployeeComponentJSX.png",
-    "Pasted image 20240508123024.png",
-    "IMGS/frontEndImplementationSteps.png",
-    "IMGS/usingJSX.png",
-    "IMGS/helloWorldJSX.png",
-    "IMGS/createAndSetupReact.png",
-    "IMGS/EmployeeController.png",
-    "IMGS/EmployeeServiceImpl.png",
     "JAVA/Java_multiThreading.md",
     "DAILY/2024-05-07.md",
     "DAILY/2024-05-06.md",
