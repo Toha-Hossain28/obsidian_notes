@@ -82,3 +82,29 @@ Using DELETE request
 
 ### New jsx file
 ![](IMGS/helloWorldJSX.png)
+### Using the jsx
+![](IMGS/usingJSX.png)
+
+
+## Adding Bootstrap using NPM
+- In the terminal `npm install bootstrap --save`
+- import CSS file in main.jsx 
+```js
+import 'bootstrap/dist/css/bootstrap.min.css'
+```
+
+## List Employee Feature React front-end implementation
+![](IMGS/frontEndImplementationSteps.png)
+
+![](IMGS/ListEmployeeComponentJSX.png)
+### Inside app.jx
+
+![](IMGS/EmployeeListinAppJSX.png)
+
+## Connect front-end with REST API
+using Axios
+`npm install axios --save`
+
+![](IMGS/EmployeeServiceJS.png)
+
+
