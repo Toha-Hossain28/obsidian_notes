@@ -30,14 +30,21 @@
 
 ### Creating service layer and Create Employee Method
 ![](employeeService.png)
-![](Pasted_image_20240507213023.png)
+![](EmployeeServiceImpl.png)
 ### Add Employee REST controller
-![[Pasted image 20240507215756.png]]
+![[EmployeeController.png]]
 
 ## Create get Employee REST API
 #### same as create employee
 `EmployeeService.java` -> `EmployeeServiceImpl.java` -> `EmployeeController.java` 
+Using GET request
 
 ## Create getAllEmployee REST API
 #### same as before
 `EmployeeService.java` -> `EmployeeServiceImpl.java` -> `EmployeeController.java` 
+Using GET Request
+
+## Create Update Employee REST API
+#### Same as before
+`EmployeeService.java` -> `EmployeeServiceImpl.java` -> `EmployeeController.java`
+Using PUT request

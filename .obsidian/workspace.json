@@ -13,33 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "DAILY/2024-05-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e425f77d8c9947f5",
+            "id": "25382db5ea58cb1b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMGS/employeeService.png"
-              }
-            }
-          },
-          {
-            "id": "185af7eb28d5ec5e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMGS/1.png"
+                "file": "JAVA/JAVA_project_preparation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,21 +161,22 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "b988d90f7f62776b",
+  "active": "25382db5ea58cb1b",
   "lastOpenFiles": [
-    "IMGS/Pasted image 20240507215756.png",
-    "IMGS/Pasted_image_20240507213023.png",
-    "IMGS/employeeService.png",
+    "DAILY/2024-05-08.md",
     "JAVA/JAVA_project_preparation.md",
-    "DAILY/2024-05-07.md",
+    "IMGS/EmployeeController.png",
+    "IMGS/EmployeeServiceImpl.png",
+    "JAVA/Java_multiThreading.md",
     "IMGS/1.png",
+    "IMGS/employeeService.png",
+    "DAILY/2024-05-07.md",
     "IMGS/SinglyLL.png",
     "IMGS/EmployeeMapper.png",
     "IMGS/EmployeeMapper.png",
     "IMGS/EmployeeDto.png",
     "IMGS/EmployeeRespository.png",
     "IMGS/Employee_entity_JPA.png",
-    "IMGS/ConnectingDatabase.png",
     "DAILY/2024-05-06.md",
     "DAILY/2024-05-05.md",
     "COMP_SCI/Sorting/Radix_Sort.md",
@@ -204,8 +198,6 @@
     "COMP_SCI/Linked_list/Doubly_LL.md",
     "DAILY/2024-05-04.md",
     "DAILY/2024-05-03.md",
-    "DAILY/2024-05-02.md",
-    "Template/Daily_template.md",
     "Template",
     "Daily-",
     "COMP_SCI/HEAP",
