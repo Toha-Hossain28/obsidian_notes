@@ -48,3 +48,37 @@ Using GET Request
 #### Same as before
 `EmployeeService.java` -> `EmployeeServiceImpl.java` -> `EmployeeController.java`
 Using PUT request
+
+## Create Delete Employee REST API
+
+#### Same as before
+`EmployeeService.java` -> `EmployeeServiceImpl.java` -> `EmployeeController.java`
+Using DELETE request
+
+
+# Create and Setup React APP
+1. install node js
+2. create a folder
+3. open with vs code 
+4. in the terminal : `npm create vite@latest project_name`
+5. `cd project_name`
+6. `npm install`
+7. `npm run dev`
+8. change the port to 3000
+![](IMGS/createAndSetupReact.png)
+
+## React app project structure
+#### package.json
+##### Stores all the dependencies
+
+#### vite.config.js
+##### Development server details and plugins
+
+#### node_modules folder
+##### stores the node modules
+#### public folder
+##### stores all the static files
+
+
+### New jsx file
+![](IMGS/helloWorldJSX.png)
