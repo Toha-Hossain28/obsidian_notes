@@ -27,3 +27,17 @@
 ![EmployeeMapper](IMGS/EmployeeMapper.png)
 
 ## Build add Employee REST API
+
+### Creating service layer and Create Employee Method
+![](employeeService.png)
+![](Pasted_image_20240507213023.png)
+### Add Employee REST controller
+![[Pasted image 20240507215756.png]]
+
+## Create get Employee REST API
+#### same as create employee
+`EmployeeService.java` -> `EmployeeServiceImpl.java` -> `EmployeeController.java` 
+
+## Create getAllEmployee REST API
+#### same as before
+`EmployeeService.java` -> `EmployeeServiceImpl.java` -> `EmployeeController.java` 

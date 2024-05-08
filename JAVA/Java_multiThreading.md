@@ -80,7 +80,7 @@ class test
 ```
 ## States of Thread
  
- ![[IMGS/Pasted image 20240424112525.png]]
+ ![[1.png]]
  ![[Thread status.png]]
  - if a thread has finished it task you can't restart the thread you have to create a new thread.
 
