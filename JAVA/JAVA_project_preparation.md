@@ -1,38 +1,38 @@
 
 ## Initialize the project
 - go to [springInitializer](https://start.spring.io/)
-- ![SpringInitializer](IMGS/SpringInit.png)
+- ![SpringInitializer](/IMGS/SpringInit.png)
 - Download, extract and open with IntellijIDEA
 
 ## Connecting MySQL database
-![Connect DB](IMGS/ConnectingDatabase.png)
+![Connect DB](/IMGS/ConnectingDatabase.png)
 
 
 ## Create employee JPA entity
 
 - Create a package under main package named `entity`
 - inside the package create a `java class file` named `Employee`
-![JPA_entity_creation](IMGS/Employee_entity_JPA.png)
+![JPA_entity_creation](/IMGS/Employee_entity_JPA.png)
 
 ## Creating Employee repository
 
-![EmployeeRepository](IMGS/EmployeeRespository.png)
+![EmployeeRepository](/IMGS/EmployeeRespository.png)
 
 ## Creating EmployeeDto and EmployeeMapper
 
 ### EmployeeDto
-![EmployeeDto](IMGS/EmployeeDto.png)
+![EmployeeDto](/IMGS/EmployeeDto.png)
 
 ### EmoloyeeMapper
-![EmployeeMapper](IMGS/EmployeeMapper.png)
+![EmployeeMapper](/IMGS/EmployeeMapper.png)
 
 ## Build add Employee REST API
 
 ### Creating service layer and Create Employee Method
-![](employeeService.png)
-![](EmployeeServiceImpl.png)
+![](/IMGS/employeeService.png)
+![](/IMGS/EmployeeServiceImpl.png)
 ### Add Employee REST controller
-![[EmployeeController.png]]
+![](/IMGS/EmployeeController.png)
 
 ## Create get Employee REST API
 #### same as create employee
@@ -65,7 +65,7 @@ Using DELETE request
 6. `npm install`
 7. `npm run dev`
 8. change the port to 3000
-![](IMGS/createAndSetupReact.png)
+![](/IMGS/createAndSetupReact.png)
 
 ## React app project structure
 #### package.json
@@ -81,9 +81,9 @@ Using DELETE request
 
 
 ### New jsx file
-![](IMGS/helloWorldJSX.png)
+![](/IMGS/helloWorldJSX.png)
 ### Using the jsx
-![](IMGS/usingJSX.png)
+![](/IMGS/usingJSX.png)
 
 
 ## Adding Bootstrap using NPM
@@ -94,33 +94,33 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 ```
 
 ## List Employee Feature React front-end implementation
-![](IMGS/frontEndImplementationSteps.png)
+![](/IMGS/frontEndImplementationSteps.png)
 
-![](IMGS/ListEmployeeComponentJSX.png)
+![](/IMGS/ListEmployeeComponentJSX.png)
 ### Inside app.jx
 
-![](IMGS/EmployeeListinAppJSX.png)
+![](/IMGS/EmployeeListinAppJSX.png)
 
 ## Connect front-end with REST API
 using Axios
 `npm install axios --save`
 
-![](IMGS/EmployeeServiceJS.png)
+![](/IMGS/EmployeeServiceJS.png)
 
 ### List employee component JSX
-![](IMGS/frontToBack.png)
+![](/IMGS/frontToBack.png)
 
 
 ## Adding Header and Footer
 #### Header
-![](IMGS/HeaderComp.png)
+![](/IMGS/HeaderComp.png)
 
 #### Footer 
-![](IMGS/FooterComp.png)
+![](/IMGS/FooterComp.png)
 
 # Configure Routing
 
-![](IMGS/RoutingSteps.png)
+![](/IMGS/RoutingSteps.png)
 
 - `npm install react-route-dom --save`
 - import this in `App.jsx`
@@ -128,18 +128,18 @@ using Axios
 import {BrowserRouter} from 'react-router-dom'
 ```
 
-![](IMGS/routing.png)
+![](/IMGS/routing.png)
 ## Add employee route and navigate 
-![](IMGS/addEmployeeInAppJSX.png)
+![](/IMGS/addEmployeeInAppJSX.png)
 
 #### Change in LIstEmployeeComponent (button add and navigator)
-![](IMGS/addEmployeeInList.png)
+![](/IMGS/addEmployeeInList.png)
 
 ## Add Employee form
-![](IMGS/addEmployeeFormSteps.png)
+![](/IMGS/addEmployeeFormSteps.png)
 
-![](IMGS/employeeComponentImpl.png)
+![](/IMGS/employeeComponentImpl.png)
 
 ## Add Employee connect to REST API
-![](IMGS/AddEmployeeRESTConnect.png)
+![](/IMGS/AddEmployeeRESTConnect.png)
 
