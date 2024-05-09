@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2024-05-08.md",
+                "file": "DAILY/2024-05-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "928c32799bb4d616",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "DAILY/2024-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "DAILY/2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md"
+                "file": "DAILY/2024-05-09.md"
               }
             }
           }
@@ -162,14 +160,15 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "b988d90f7f62776b",
+  "active": "6e696acb698437d1",
   "lastOpenFiles": [
+    "DAILY/2024-05-08.md",
+    "JAVA/JAVA_project_preparation.md",
+    "DAILY/2024-05-09.md",
     "IMGS/formValidationSteps.png",
     "IMGS/appafterForm.png",
     "IMGS/empService2.png",
-    "DAILY/2024-05-08.md",
     "IMGS/employeeComponentImpl.png",
-    "JAVA/JAVA_project_preparation.md",
     "IMGS/employeeComp.png",
     "COMP_SCI/Queue/Queue.md",
     "COMP_SCI/Linked_list/LINKED_LIST.md",
@@ -178,7 +177,6 @@
     "IMGS/addEmployeeInList.png",
     "IMGS/addEmployeeInAppJSX.png",
     "Pasted image 20240508155604.png",
-    "IMGS/routing.png",
     "JAVA/Java_multiThreading.md",
     "DAILY/2024-05-07.md",
     "DAILY/2024-05-06.md",
