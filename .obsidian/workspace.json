@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2024-05-09.md",
+                "file": "DAILY/2024-05-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/2024-05-09.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY/2024-05-09.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY/2024-05-09.md"
+                "file": "JAVA/JAVA_project_preparation.md"
               }
             }
           }
@@ -160,11 +161,14 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "6e696acb698437d1",
+  "active": "ac0b2a3396214d28",
   "lastOpenFiles": [
+    "DAILY/2024-05-10.md",
+    "Template/Daily_template.md",
+    "DAILY/2024-05-07.md",
     "DAILY/2024-05-08.md",
-    "JAVA/JAVA_project_preparation.md",
     "DAILY/2024-05-09.md",
+    "JAVA/JAVA_project_preparation.md",
     "IMGS/formValidationSteps.png",
     "IMGS/appafterForm.png",
     "IMGS/empService2.png",
@@ -178,7 +182,6 @@
     "IMGS/addEmployeeInAppJSX.png",
     "Pasted image 20240508155604.png",
     "JAVA/Java_multiThreading.md",
-    "DAILY/2024-05-07.md",
     "DAILY/2024-05-06.md",
     "DAILY/2024-05-05.md",
     "COMP_SCI/Sorting/Radix_Sort.md",
@@ -196,8 +199,6 @@
     "COMP_SCI/Stack/Array_Stack_Implementation.md",
     "COMP_SCI/Queue/Sort_Queue.md",
     "COMP_SCI/Linked_list/Reversing_LL.md",
-    "COMP_SCI/Linked_list/Doubly_LL.md",
-    "DAILY/2024-05-04.md",
     "Template",
     "Daily-",
     "COMP_SCI/HEAP",
