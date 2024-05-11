@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef83148a1b64cfd",
+        "id": "969c0a030649f792",
         "type": "tabs",
         "children": [
           {
-            "id": "6e696acb698437d1",
+            "id": "ab6a283111136980",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DAILY/2024-05-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac0b2a3396214d28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP_SCI/Tree/AVL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP_SCI/HEAP/Max&Min_Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP_SCI/HEAP/Max&Min_Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMP_SCI/HEAP/Max&Min_Heap.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,12 +140,20 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "b988d90f7f62776b",
+  "active": "ab6a283111136980",
   "lastOpenFiles": [
+    "COMP_SCI/Tree/Tree_creation_using_array.md",
+    "COMP_SCI/Queue/Sort_Queue.md",
     "COMP_SCI/Tree/AVL.md",
+    "COMP_SCI/Tree/Binary_Search_Tree.md",
+    "COMP_SCI/Disjoint_set/rank.md",
+    "Pasted image 20240511155904.png",
+    "Pasted image 20240511155646.png",
+    "Pasted image 20240511155514.png",
     "DAILY/2024-05-11.md",
-    "JAVA/JAVA_project_preparation.md",
+    "COMP_SCI/Disjoint_set",
     "DAILY/2024-05-10.md",
+    "JAVA/JAVA_project_preparation.md",
     "Template/Daily_template.md",
     "DAILY/2024-05-07.md",
     "DAILY/2024-05-08.md",
@@ -180,9 +167,6 @@
     "COMP_SCI/Linked_list/LINKED_LIST.md",
     "IMGS/AddEmployeeRESTConnect.png",
     "IMGS/addEmployeeFormSteps.png",
-    "IMGS/addEmployeeInList.png",
-    "IMGS/addEmployeeInAppJSX.png",
-    "Pasted image 20240508155604.png",
     "JAVA/Java_multiThreading.md",
     "DAILY/2024-05-06.md",
     "DAILY/2024-05-05.md",
@@ -195,10 +179,6 @@
     "COMP_SCI/Queue/Queue_with_LL.md",
     "COMP_SCI/Queue/Queue_with_array.md",
     "COMP_SCI/Stack/STACK.md",
-    "COMP_SCI/Stack/Infix_to_Postfix_using_Stack.md",
-    "COMP_SCI/Stack/Parenthesis_Matching_using_Stack.md",
-    "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
-    "COMP_SCI/Stack/Array_Stack_Implementation.md",
     "Template",
     "Daily-",
     "COMP_SCI/HEAP",
@@ -208,7 +188,6 @@
     "COMP_SCI/Queue",
     "COMP_SCI/Stack",
     "COMP_SCI/Linked_list",
-    "problems_solved",
     "Untitled.canvas"
   ]
 }
