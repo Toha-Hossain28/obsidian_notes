@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2024-05-11.md",
+                "file": "COMP_SCI/Tree/AVL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/2024-05-11.md",
+                "file": "COMP_SCI/HEAP/Max&Min_Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY/2024-05-11.md",
+                "file": "COMP_SCI/HEAP/Max&Min_Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY/2024-05-11.md"
+                "file": "COMP_SCI/HEAP/Max&Min_Heap.md"
               }
             }
           }
@@ -161,10 +161,11 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "ac0b2a3396214d28",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
-    "JAVA/JAVA_project_preparation.md",
+    "COMP_SCI/Tree/AVL.md",
     "DAILY/2024-05-11.md",
+    "JAVA/JAVA_project_preparation.md",
     "DAILY/2024-05-10.md",
     "Template/Daily_template.md",
     "DAILY/2024-05-07.md",
@@ -198,7 +199,6 @@
     "COMP_SCI/Stack/Parenthesis_Matching_using_Stack.md",
     "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
     "COMP_SCI/Stack/Array_Stack_Implementation.md",
-    "COMP_SCI/Queue/Sort_Queue.md",
     "Template",
     "Daily-",
     "COMP_SCI/HEAP",
