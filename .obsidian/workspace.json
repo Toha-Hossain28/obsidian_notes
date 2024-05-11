@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "DAILY/2024-05-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "DAILY/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "DAILY/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md"
+                "file": "DAILY/2024-05-11.md"
               }
             }
           }
@@ -163,12 +163,13 @@
   },
   "active": "ac0b2a3396214d28",
   "lastOpenFiles": [
+    "JAVA/JAVA_project_preparation.md",
+    "DAILY/2024-05-11.md",
     "DAILY/2024-05-10.md",
     "Template/Daily_template.md",
     "DAILY/2024-05-07.md",
     "DAILY/2024-05-08.md",
     "DAILY/2024-05-09.md",
-    "JAVA/JAVA_project_preparation.md",
     "IMGS/formValidationSteps.png",
     "IMGS/appafterForm.png",
     "IMGS/empService2.png",
@@ -198,7 +199,6 @@
     "COMP_SCI/Linked_list/Linked_List_Stack_Implementation.md",
     "COMP_SCI/Stack/Array_Stack_Implementation.md",
     "COMP_SCI/Queue/Sort_Queue.md",
-    "COMP_SCI/Linked_list/Reversing_LL.md",
     "Template",
     "Daily-",
     "COMP_SCI/HEAP",
