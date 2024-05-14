@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2024-05-13.md",
+                "file": "COMP_SCI/Tree/AVL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/2024-05-13.md",
+                "file": "COMP_SCI/Tree/AVL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY/2024-05-13.md",
+                "file": "COMP_SCI/Tree/AVL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY/2024-05-13.md"
+                "file": "COMP_SCI/Tree/AVL.md"
               }
             }
           }
@@ -150,14 +150,15 @@
   },
   "active": "ab6a283111136980",
   "lastOpenFiles": [
-    "DAILY/2024-05-12.md",
+    "COMP_SCI/Disjoint_set/rank.md",
+    "COMP_SCI/HEAP/Max&Min_Heap.md",
     "DAILY/2024-05-13.md",
+    "DAILY/2024-05-12.md",
     "DAILY/2024-05-11.md",
     "COMP_SCI/Tree/Tree_creation_using_array.md",
     "COMP_SCI/Queue/Sort_Queue.md",
     "COMP_SCI/Tree/AVL.md",
     "COMP_SCI/Tree/Binary_Search_Tree.md",
-    "COMP_SCI/Disjoint_set/rank.md",
     "Pasted image 20240511155904.png",
     "Pasted image 20240511155646.png",
     "Pasted image 20240511155514.png",
@@ -186,7 +187,6 @@
     "COMP_SCI/Sorting/Bucket_Sort.md",
     "COMP_SCI/Queue/Circular_Queue.md",
     "COMP_SCI/Queue/PalindromeCheck_Stack&Queue.md",
-    "COMP_SCI/Queue/Queue_with_LL.md",
     "Template",
     "Daily-",
     "COMP_SCI/HEAP",

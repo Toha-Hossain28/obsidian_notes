@@ -1,6 +1,6 @@
 {
   "soundscape": "CUSTOM_5b77813a-8c65-4803-b52f-e03f19199796",
-  "volume": 24,
+  "volume": 77,
   "autoplay": false,
   "scrollSongTitle": true,
   "customSoundscapes": [
@@ -23,5 +23,5 @@
   "myMusicFolderPath": "",
   "reindexFrequency": "5",
   "myMusicShuffle": false,
-  "currentTrackIndex": 1
+  "currentTrackIndex": 0
 }
