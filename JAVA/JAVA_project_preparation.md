@@ -122,7 +122,7 @@ using Axios
 
 ![](/IMGS/RoutingSteps.png)
 
-- `npm install react-route-dom --save`
+- `npm install react-router-dom --save`
 - import this in `App.jsx`
 ```js
 import {BrowserRouter} from 'react-router-dom'
