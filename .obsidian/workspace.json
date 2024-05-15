@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2024-05-14.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/2024-05-14.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY/2024-05-14.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY/2024-05-14.md"
+                "file": "JAVA/JAVA_project_preparation.md"
               }
             }
           }
@@ -148,10 +148,12 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "ab6a283111136980",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
-    "COMP_SCI/Tree/AVL.md",
+    "DAILY/2024-05-15.md",
+    "Untitled.md",
     "DAILY/2024-05-14.md",
+    "COMP_SCI/Tree/AVL.md",
     "COMP_SCI/Disjoint_set/rank.md",
     "COMP_SCI/HEAP/Max&Min_Heap.md",
     "DAILY/2024-05-13.md",
@@ -185,8 +187,6 @@
     "COMP_SCI/Sorting/Radix_Sort.md",
     "COMP_SCI/Sorting/Merge_Sort.md",
     "COMP_SCI/Sorting/Count_Sort.md",
-    "COMP_SCI/Sorting/Bucket_Sort.md",
-    "COMP_SCI/Queue/Circular_Queue.md",
     "Template",
     "Daily-",
     "COMP_SCI/HEAP",
