@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "969c0a030649f792",
+        "id": "c206895ba53c536e",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6a283111136980",
+            "id": "6f4cfb44b8d25233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "Hyprland/Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "Hyprland/Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md",
+                "file": "Hyprland/Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JAVA_project_preparation.md"
+                "file": "Hyprland/Install.md"
               }
             }
           }
@@ -148,8 +148,12 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "b988d90f7f62776b",
+  "active": "6f4cfb44b8d25233",
   "lastOpenFiles": [
+    "DAILY/2024-05-25.md",
+    "Hyprland/Install.md",
+    "Hyprland",
+    "JAVA/JAVA_project_preparation.md",
     "DAILY/2024-05-22.md",
     "DAILY/2024-05-21.md",
     "DAILY/2024-05-20.md",
@@ -175,11 +179,8 @@
     "Pasted image 20240511155514.png",
     "COMP_SCI/Disjoint_set",
     "DAILY/2024-05-10.md",
-    "JAVA/JAVA_project_preparation.md",
     "Template/Daily_template.md",
     "DAILY/2024-05-07.md",
-    "DAILY/2024-05-08.md",
-    "DAILY/2024-05-09.md",
     "IMGS/formValidationSteps.png",
     "IMGS/appafterForm.png",
     "IMGS/empService2.png",
@@ -195,7 +196,6 @@
     "My_journal",
     "COMP_SCI/Queue",
     "COMP_SCI/Stack",
-    "COMP_SCI/Linked_list",
     "Untitled.canvas"
   ]
 }
