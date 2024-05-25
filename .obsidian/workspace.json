@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2024-05-12.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/2024-05-12.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY/2024-05-12.md",
+                "file": "JAVA/JAVA_project_preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY/2024-05-12.md"
+                "file": "JAVA/JAVA_project_preparation.md"
               }
             }
           }
@@ -148,21 +148,25 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "ab6a283111136980",
+  "active": "b988d90f7f62776b",
   "lastOpenFiles": [
-    "DAILY/2024-05-19.md",
     "DAILY/2024-05-22.md",
+    "DAILY/2024-05-21.md",
+    "DAILY/2024-05-20.md",
+    "DAILY/2024-05-19.md",
+    "DAILY/2024-05-18.md",
     "DAILY/2024-05-17.md",
     "DAILY/2024-05-16.md",
     "DAILY/2024-05-15.md",
     "DAILY/2024-05-14.md",
+    "DAILY/2024-05-13.md",
+    "DAILY/2024-05-12.md",
+    "DAILY/2024-05-11.md",
+    "DAILY/2024-05-02.md",
     "Untitled.md",
     "COMP_SCI/Tree/AVL.md",
     "COMP_SCI/Disjoint_set/rank.md",
     "COMP_SCI/HEAP/Max&Min_Heap.md",
-    "DAILY/2024-05-13.md",
-    "DAILY/2024-05-12.md",
-    "DAILY/2024-05-11.md",
     "COMP_SCI/Tree/Tree_creation_using_array.md",
     "COMP_SCI/Queue/Sort_Queue.md",
     "COMP_SCI/Tree/Binary_Search_Tree.md",
@@ -181,12 +185,8 @@
     "IMGS/empService2.png",
     "IMGS/employeeComponentImpl.png",
     "IMGS/employeeComp.png",
-    "COMP_SCI/Queue/Queue.md",
-    "COMP_SCI/Linked_list/LINKED_LIST.md",
     "IMGS/AddEmployeeRESTConnect.png",
     "IMGS/addEmployeeFormSteps.png",
-    "JAVA/Java_multiThreading.md",
-    "DAILY/2024-05-06.md",
     "Template",
     "Daily-",
     "COMP_SCI/HEAP",
