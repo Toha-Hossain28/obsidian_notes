@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c206895ba53c536e",
+        "id": "f3fa96e69e68c884",
         "type": "tabs",
         "children": [
           {
-            "id": "6f4cfb44b8d25233",
+            "id": "36b11f36bc23c6cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyprland/Install.md",
+                "file": "SHELL SCRIPTING/DAY_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyprland/Install.md",
+                "file": "SHELL SCRIPTING/DAY_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hyprland/Install.md",
+                "file": "SHELL SCRIPTING/DAY_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyprland/Install.md"
+                "file": "SHELL SCRIPTING/DAY_1.md"
               }
             }
           }
@@ -149,10 +149,13 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "6f4cfb44b8d25233",
+  "active": "36b11f36bc23c6cf",
   "lastOpenFiles": [
-    "DAILY/2024-05-25.md",
     "Hyprland/Install.md",
+    "SHELL SCRIPTING/DAY_1.md",
+    "SHELL SCRIPTING",
+    "DAILY/2024-05-26.md",
+    "DAILY/2024-05-25.md",
     "Hyprland",
     "JAVA/JAVA_project_preparation.md",
     "DAILY/2024-05-22.md",
@@ -180,8 +183,6 @@
     "Pasted image 20240511155514.png",
     "COMP_SCI/Disjoint_set",
     "DAILY/2024-05-10.md",
-    "Template/Daily_template.md",
-    "DAILY/2024-05-07.md",
     "IMGS/formValidationSteps.png",
     "IMGS/appafterForm.png",
     "IMGS/empService2.png",
@@ -196,7 +197,6 @@
     "COMP_SCI/Tree",
     "My_journal",
     "COMP_SCI/Queue",
-    "COMP_SCI/Stack",
     "Untitled.canvas"
   ]
 }
